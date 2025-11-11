@@ -1,0 +1,539 @@
+Item Code;Item Description;Part No.;Part Description;Model;Unit Of Measurement;Spare Part Type;Location;Specify;Part Category;Is Expiry date Required;Min Nos;Max Nos;Minimum Price Per Nos (RM);Maximum Price Per Nos (RM);Brand;Status;Expiry Age (In Month);Current Stock Level
+BP0018;Motors/ Micromotors/ Carbon brushes;01-0802-0503-085;Flow motor;;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;3;500;800;Common;Active;0;0
+BP0025;Sensors/ Detectors;01-0101-0101-044;O2 Sensor OOM202;;Unit;One Off;Centralized;;Biomedical;Yes;1;5;280;380;Common;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0802-0504-011;Door 22MM Bubble C.Holder 4008SV10;Fresenius 4008S NG;Unit;Just In Time;Company Site Office;;Biomedical;No;1;3;800;826,8;Fresenius;Active;0;3
+BP0001;Batteries/ UPS;01-0503-0104-001;Battery Pack Fot Tec 7731K;;Unit;Just In Time;Centralized;;Biomedical;Yes;0;10;650;1400;Nihon Kohden;Active;0;2
+BP0025;Sensors/ Detectors;01-1603-1405-001;DATEX OHMEDA Spo2 FINGER SENSOR Trusignal (TS-F-D);Trusat;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;20;385;393;;Active;0;10
+BP0025;Sensors/ Detectors;01-0101-0600-002;FLOW TRANDUCER GE;;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;5;10;450;790;Ge;Active;0;1
+BP0003;Bulbs/ Lamps;01-1902-0301-002;Bulb 12v 30w;Bc 900;Unit;One Off;Company Site Office;;Biomedical;Yes;1;16;127;130;Haag-Streit;Active;0;24
+BP0001;Batteries/ UPS;01-2300-0201-001;Battery AA (Alkaline);Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;200;800;1,85;2,24;Energizer;Active;0;595
+BP0011;Equipment Specific Parts;01-0322-0101-015;Label Remover;Common;Unit;One Off;Company Site Office;;Biomedical;No;12;24;25;60;Common;Active;;0
+BP0003;Bulbs/ Lamps;01-2406-0401-001;Bulb 12v 100w (64623 HLX);Hlx64625;Unit;One Off;Company Site Office;;Biomedical;Yes;5;10;85;550;Osram;Active;3;10
+BP0027;Switchs/ Knobs/Buttons;01-2406-0101-002;Read Switch;Kcd-10m-7;Unit;Just In Time;Company Site Office;;Biomedical;Yes;5;10;80;85;TOSHIBA;Active;0;0
+BP0011;Equipment Specific Parts;01-0322-0101-006;STP Foam Cleaner;Common;Unit;One Off;Company Site Office;;Biomedical;Yes;12;24;27,5;75;Common;Active;0;17
+BP0011;Equipment Specific Parts;01-0322-0200-001;Ambersil - Label Remover;;Unit;Just In Time;Company Site Office;;Biomedical;Yes;12;24;42;250;;Active;0;13
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-2305-0102-001;Swive Air Hose;505;Unit;One Off;Company Site Office;;Biomedical;Yes;0;1;600;650;;Active;0;0
+BP0018;Motors/ Micromotors/ Carbon brushes;01-0802-0502-007;Fresenius 4008S Motor Assy Degassing Complete;;Unit;Just In Time;Company Site Office;;Biomedical;Yes;1;5;10;1000;Fresenius;Active;0;1
+BP0003;Bulbs/ Lamps;01-2602-0200-018;PROJECTION LAMP 24V 250W OSRAM;Common;Unit;One Off;Company Site Office;;Biomedical;Yes;5;15;9,5;10;Common;Active;0;18
+BP0003;Bulbs/ Lamps;01-1301-0601-001;Bulb 12V 50W;M650;Unit;One Off;Company Site Office;;Biomedical;Yes;5;10;185;190;Leica;Active;0;0
+BP0027;Switchs/ Knobs/Buttons;01-0802-0502-021;Fresenius 4008S Float Switch Complete;;Unit;One Off;Company Site Office;;Biomedical;Yes;1;3;172,04;190;Fresenius;Active;0;0
+BP0026;Solenoids/ Valves/ Gauges;01-0802-0503-035;Fresenius 4008S Reliief valve completed;;Unit;One Off;Company Site Office;;Biomedical;Yes;1;5;179;197;Fresenius;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-1710-003;SPO2 REUSABLE SENSOR PEDIATRIC LNCS DCIP;Radical 7;Unit;One Off;Company Site Office;;Biomedical;Yes;2;5;700;750;MASIMO;Active;0;4
+BP0021;Power Cords/ Adaptors (or any part of it);01-0322-0101-005;COMMON ITEM POWER CORD 3 MTR;Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;50;19,5;37;Common;Active;0;21
+BP0011;Equipment Specific Parts;01-1700-0000-001;EQUIPMENT SPECIFIC PARTS (IN HOUSE);Trinias C12/F12;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;10001;100000;Shimadzu;Active;;5
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1909-0205-002;Male & Female Connector;Dekamet MK3;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;10;50;2;2,5;Accoson;Active;0;46
+BP0006;Cuffs;01-0203-0102-010;X-Large Cuff Adult 1 TB;;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;10;50;10;13;Critikon/Velcro;Active;0;23
+BP0012;Filters;01-0802-0203-001;Diacap Ultra DF - Online Filter;7102001;Unit;One Off;Company Site Office;;Biomedical;Yes;10;20;300;370;B.Braun;Active;0;10
+BP0003;Bulbs/ Lamps;01-1201-0103-005;Lamp for Laryngoscope;Welch Allyn;Unit;Just In Time;Company Site Office;;Biomedical;Yes;3;10;26;60;Welch Allyn;Active;0;5
+BP0001;Batteries/ UPS;01-1909-0102-005;Rechargeable Battery 12V 700Mah;5200;Unit;Just In Time;Centralized;;Biomedical;Yes;5;20;150;200;Top;Active;0;11
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0102-012;NIHON KOHDEN CHEST ELECTROLUDE ADULT COMPLEX;6851k;Unit;One Off;Company Site Office;;Biomedical;Yes;0;100;60;92;Nihon Kohden;Active;0;16
+BP0003;Bulbs/ Lamps;01-1902-0601-001;BULB 6V 20W;Sl-D Series;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;10;165;241,5;Topcon;Active;0;1
+BP0003;Bulbs/ Lamps;01-1502-0101-008;Bulb WELCH ALLYN 03100;Welch Allyn;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;30;35;55,2;Welch Allyn;Active;0;2
+BP0003;Bulbs/ Lamps;01-1503-0301-001;3.5v Streak Lamp 08200;71670;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;15;35;69;Welch Allyn;Active;0;9
+BP0001;Batteries/ UPS;01-2206-0101-001;BATTERY SERVO-I MARQUET;Servo-i;Unit;Just In Time;Centralized;;Biomedical;Yes;0;20;1200;1610;;Active;0;1
+BP0001;Batteries/ UPS;01-1604-2602-001;BATTERY LITHIUM ION;;Unit;Just In Time;Centralized;;Biomedical;Yes;0;1;650;1035;PHILIPS;Active;0;4
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2607-001;Transpac IV Cable HP PHILIPS;GE;Unit;Just In Time;Company Site Office;;Biomedical;Yes;1;100;250;500;Philips;Active;0;4
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2603-001;SPO2 Adult Finger Clip Sensor M1196A;SureSigns VSi;Unit;Just In Time;Company Site Office;;Biomedical;Yes;2;5;300;700;Philips;Active;0;0
+BP0001;Batteries/ UPS;01-1909-0902-001;Battery 6v 2200 mah;Injectomat Agilia;Unit;One Off;Company Site Office;;Biomedical;Yes;1;30;140;500;Fresenius;Active;0;0
+BP0003;Bulbs/ Lamps;01-1203-0201-001;300 Watts Xenon Lamp;;Unit;Just In Time;Company Site Office;;Biomedical;Yes;2;5;1330;1667,5;Olympus;Active;0;0
+BP0006;Cuffs;01-1601-1301-007;CUFF S/H ADULT (PHILIPS);V24 (Pm);Unit;One Off;Company Site Office;;Biomedical;Yes;0;20;90;300;AGILENT;Active;0;13
+BP0025;Sensors/ Detectors;01-2202-1402-001;Oxygen Sensor;Servo-i;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;9;700;1380;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0502-0106-001;POWER CORD 5 METER 3 PIN;;Unit;Just In Time;Company Site Office;;Biomedical;Yes;0;30;27,5;50;Erbe;Active;0;1
+BP0011;Equipment Specific Parts;01-0909-0200-002;Power Board;Or-1500h;Unit;One Off;Company Site Office;;Biomedical;Yes;5;10;720;1000;;Active;0;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2604-002;Cable 5 leadset grabber M1971A;SureSigns VM4;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;5;10;480;715;Philips;Active;0;1
+BP0011;Equipment Specific Parts;01-1700-0000-002;MAINTAINANCE SPARE PART (IN HOUSE);;Unit;One Off;Company Site Office;;Biomedical;Yes;1;50;7;22000;;Active;0;3
+BP0006;Cuffs;01-0203-0301-016;Cuff Connector Female;Bp8800;Unit;Just In Time;Company Site Office;;Biomedical;Yes;5;30;3;7;COLIN;Active;0;3
+BP0012;Filters;01-1805-0101-003;Cotton Filter-20 Inch;;Unit;Just In Time;Company Site Office;;Biomedical;Yes;5;10;15;32,2;Waterman;Active;0;20
+BP0004;Cables/ Lead Wires (or any part of it);01-0203-0902-002;MINDRAY SPO2 Extension Cable, Sensor 2.4m (0010-20-42594);Pm 600;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;10;110;120;Mindray;Active;0;23
+BP0025;Sensors/ Detectors;01-2202-0302-001;SIEMENS SERVO 9000 OXYGEN SENSOR OOM202;Sv300;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;15;159,85;218,5;Siemens;Active;0;0
+BP0010;Electronic Components;01-0322-0101-017;PETTY CASH;Common;Unit;One Off;Company Site Office;;Biomedical;Yes;1;36;1;500;Common;Active;0;57
+BP0006;Cuffs;01-0203-0301-017;Cuff Connector Male;Bp8800;Unit;Just In Time;Company Site Office;;Biomedical;Yes;5;30;3;6;COLIN;Active;0;11
+BP0001;Batteries/ UPS;01-1909-0101-001;Rechargeable Battery;Top 5100;Unit;Just In Time;Company Site Office;;Biomedical;Yes;2;3;140;168;Top;Active;0;0
+BP0026;Solenoids/ Valves/ Gauges;01-2202-0201-002;Vent. Exhalation Valve Assy;8400;Unit;Just In Time;Company Site Office;;Biomedical;Yes;1;3;854;1708;BIRD;Active;0;0
+BP0026;Solenoids/ Valves/ Gauges;01-0802-0503-206;VALVE SPRING SET BIC-4008/S V10;Fresenius 4008 NG;Unit;One Off;Company Site Office;;Biomedical;No;5;15;100;300;Fresenius;Active;;8
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0903-0202-016;Battery Cover Assembly ,TOP 3300;Top 3300;Unit;Just In Time;Company Site Office;;Biomedical;Yes;3;6;257,15;334,1;TOP;Active;0;4
+BP0025;Sensors/ Detectors;01-2202-0000-001;Oxygen Sensor;7200;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;3;1200;1380;;Active;0;0
+BP0025;Sensors/ Detectors;01-0903-0202-001;Drop Sensor TOP 3300 (89T) T6330522;Top 3300;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;2;5;718;825,7;Top;Active;0;0
+BP0011;Equipment Specific Parts;01-0803-0105-003;900MR858 Electrical Adaptor;Mr850;Unit;Just In Time;Company Site Office;;Biomedical;Yes;3;10;298,8;343,62;Fisher & Paykel;Active;0;2
+BP0026;Solenoids/ Valves/ Gauges;01-0802-0503-010;Solenoid Valve (Chamber);;Unit;One Off;Company Site Office;;Biomedical;Yes;1;2;370;425,5;Fresenius;Active;0;8
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2601-002;ECG 3 LEAD TRUNK CABLE;IntelliVue MP40;Unit;One Off;Company Site Office;;Biomedical;Yes;5;10;300;500;Philips;Active;0;10
+BP0025;Sensors/ Detectors;01-2202-1103-004;ANASTHESIA;Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;5;10;200;275;Common;Active;0;13
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2604-001;Cable 5 lead ECG trunk M1668A;SureSigns VM4;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;5;10;500;650;Philips;Active;0;1
+BP0025;Sensors/ Detectors;01-0101-0101-045;Oxygen Sensor (OOM102-1);Elite 615;Unit;Just In Time;Company Site Office;;Biomedical;Yes;3;10;300;320;ULCO;Active;6;0
+BP0001;Batteries/ UPS;01-0203-0909-001;Rechargeable Battery 11.1V, Mindray iMEC8;Mindray iMEC8;Unit;One Off;Company Site Office;;Biomedical;No;2;5;400;450;Mindray;Active;;2
+BP0012;Filters;01-0802-0503-001;Diasafe Plus Filter;4008s;Unit;Just In Time;Company Site Office;;Biomedical;No;1;60;200;242,5;Fresenius;Active;0;0
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-0802-0503-014;Fresenius 4008S PPM Kit Yearly;4008s;Unit;Just In Time;Company Site Office;;Biomedical;No;1;35;500;530;FRESENIUS;Active;0;0
+BP0003;Bulbs/ Lamps;01-1505-0302-001;Bulb 24 V 150 W, OSRAM;Osram;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;6;20;6,7;7,6;Osram;Active;0;0
+BP0006;Cuffs;01-2002-1001-003;Cuff Cylindrical 34 Ats;Common;Unit;One Off;Company Site Office;;Biomedical;No;1;2;400;460;Common;Active;;0
+BP0025;Sensors/ Detectors;01-2203-0601-002;SIPAP MACHINE OXYGEN SENSOR FABIAN OOM204;Fabian;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;12;450;480;Acutronic;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0501-002;SCHILLER 10 LEAD ECG CABLE BANANA TYPE;Cardiovit AT-1;Unit;Just In Time;Company Site Office;;Biomedical;No;1;30;120;150;SCHILLER;Active;0;0
+BP0003;Bulbs/ Lamps;01-2404-0101-003;Bulb 12V 100W (64627);Polydoros;Unit;One Off;Company Site Office;;Biomedical;No;3;10;10;11,5;Siemens;Active;;9
+BP0011;Equipment Specific Parts;01-1619-0200-004;MMS Module;IntelliVue MP70;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;2;2700;2800;;Active;;3
+BP0001;Batteries/ UPS;01-0903-0103-005;BATTERY B. BRAUN INFUSOMAT;Infusomat;Unit;One Off;Company Site Office;;Biomedical;No;3;5;200;220;B.Braun;Active;;0
+BP0025;Sensors/ Detectors;01-1603-0102-002;Spo2 Sensor Adult Original DS100A;N-190;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;8;20;400;430;Nellcor;Active;;6
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-0503-1103-001;MODULE MONTARA AM-12;Eli 280;Unit;Just In Time;Company Site Office;;Biomedical;No;2;5;2000;2300;;Active;;0
+BP0028;Transducers/ Probes;01-0303-0102-001;Ultrasound Tranducer;M1353a;Unit;Just In Time;Centralized;;Biomedical;No;0;1;1300;1400;Hewlett Packard;Active;0;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-1204-006;ECG TRUNK CABLE PROPAQ LT 3 LEAD;Propaq LT;Unit;One Off;Company Site Office;;Biomedical;No;3;5;100;125;Welch Allyn;Active;;4
+BP0004;Cables/ Lead Wires (or any part of it);01-0102-0104-028;EXTENSION CABLE TRUSIGNAL GE WITH CONNECTOR;Aestiva 5/7100;Unit;One Off;Company Site Office;;Biomedical;No;2;10;100;125;Datex Ohmeda;Active;;3
+BP0026;Solenoids/ Valves/ Gauges;01-2202-0801-006;RELEASE VALVE DIAPHRAGM;Ref-Vent 100-V;Unit;One Off;Company Site Office;;Biomedical;No;3;15;37;40;ULCO;Active;;15
+BP0025;Sensors/ Detectors;01-2203-0601-003;Oxygen Cell OOM102;Fabian;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;10;260;280;Acutronic;Active;;0
+BP0003;Bulbs/ Lamps;01-1502-0206-002;LED BULB OPHTHALMOSCOPE;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;2;5;600;620;Keeler;Active;;4
+BP0019;O-Rings/ Belts/ Seals/ Gaskets/ Washers;01-0207-0101-005;YELLOW BELT;Lactina Electric Plus;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;190;195;;Active;;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0103-011;PHILIPS 5 LEAD TRUNK CABLE ECG M1530A;78353a;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;15;125;140;Hewlett Packard;Active;0;4
+BP0025;Sensors/ Detectors;01-1601-1301-002;Spo2 finger sensor M1191BL;V24;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;30;10;400;AGILENT;Active;0;0
+BP0003;Bulbs/ Lamps;01-1201-0201-001;Bulb Laryngoscope Adult Penlon 55091;Penlon;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;25;20;23;Penlon;Active;0;17
+BP0011;Equipment Specific Parts;01-0909-0200-001;KEYPAD ORALIX;Common;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;200;250;Common;Active;;1
+BP0028;Transducers/ Probes;01-0303-0201-001;2Mhz Tranducer (Blue);Sonicaid;Unit;Just In Time;Centralized;;Biomedical;No;0;5;2000;2300;Oxford Instrument;Active;0;1
+BP0011;Equipment Specific Parts;01-2202-0404-001;Water Trap;;Unit;One Off;Company Site Office;;Biomedical;No;0;10;10;115;Draeger;Active;;10
+BP0002;Blankets/ Mattresses;01-1803-0101-001;HUNTLEGLY RIPPLE MATTRESS;Alphabed;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;500;650;HUNTLEIGH;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-1710-012;SPO2 FINGER SENSOR NIHON KOHDEN;Pvm-2701;Unit;Just In Time;Company Site Office;;Biomedical;No;0;10;10;280;Nihon Kohden;Active;;7
+BP0003;Bulbs/ Lamps;01-1301-0702-002;BULB OSRAM XBOR 300W/60C;;Unit;One Off;Company Site Office;;Biomedical;No;1;2;10;2950;Karl Storz;Active;;2
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-1102-002;ECG USB Cable;Eli 230;Unit;Just In Time;Company Site Office;;Biomedical;No;0;5;10;1200;MORTARA;Active;;2
+BP0011;Equipment Specific Parts;01-1502-0207-001;LED BULB 3.5V Opthalmoscope;Keeler Professional;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;150;170;Keeler;Active;;1
+BP0025;Sensors/ Detectors;01-1603-2701-001;Spo2 Finger Sensor Adult, Trusat;Trusat;Unit;Just In Time;Company Site Office;;Biomedical;No;0;5;10;150;Ge;Active;;1
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1803-1800-004;MATRESS SIDE 9MM CONNECTER;Alpha Active 3;Unit;Just In Time;Company Site Office;;Biomedical;No;0;25;10;95;;Active;;3
+BP0013;Heater Elements;01-2305-0101-003;Heater 230-240Vac, 50/60Hz;750;Unit;One Off;Company Site Office;;Biomedical;No;0;15;10;600;;Active;;0
+BP0001;Batteries/ UPS;01-2003-0101-002;BATTERY CR-1/3N;;Unit;One Off;Company Site Office;;Biomedical;No;0;20;10;25;;Active;;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-1809-001;SPO2 Extension Cable PN:0010-20-42710 or 562A;Mindray iMEC8;Unit;Just In Time;Company Site Office;;Biomedical;No;1;15;10;120;;Active;;0
+BP0028;Transducers/ Probes;01-0303-0201-002;CARDIOTOCOGRAPH Toco Ultrasound Tranducer (Pink);Common;Unit;Just In Time;Centralized;;Biomedical;No;0;5;10;2800;Common;Active;0;3
+BP0025;Sensors/ Detectors;01-2202-1701-001;OXYGEN SENSOR;E360;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;10;598;NEWPORT;Active;0;12
+BP0011;Equipment Specific Parts;01-2202-1402-003;EXPIRATORY CASSETE;Servo-i;Unit;Just In Time;Company Site Office;;Biomedical;No;2;5;10;6000;;Active;;0
+BP0003;Bulbs/ Lamps;01-1505-0404-001;SOCKET BULB BLUE 130 MAQUET OT LIGHT;;Unit;One Off;Company Site Office;;Biomedical;No;0;10;10;420;;Active;;7
+BP0025;Sensors/ Detectors;01-0102-0102-003;DATEX OHMEDA (AESTIVA 5) 02 CELL 6050-0004-110;Aestiva 3000;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;15;250;390;;Active;6;3
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0102-021;NIHON KOHDEN Fast Clip Ecg Electrode;6851k;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;10;65;Nihon Kohden;Active;0;6
+BP0003;Bulbs/ Lamps;01-1505-0102-001;BULB MAQUET BLUE 22.8V 90W;;Unit;Just In Time;Company Site Office;;Biomedical;No;10;50;10;225;Hanaulux;Active;;0
+BP0025;Sensors/ Detectors;01-1603-2601-001;SPO finger sensor mindray adult 512F;;Unit;Just In Time;Others;Vendor By Purchase Order;Biomedical;No;5;15;10;250;Mindray;Active;;0
+BP0011;Equipment Specific Parts;01-0909-0200-003;Drop sensor,BRAND:ORALIX, MODEL:OR-1500H;Or-1500h;Unit;Just In Time;Company Site Office;;Biomedical;No;1;10;100;360;;Active;;8
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-1706-001;EXTENSION CABLE RC-12;Rainbow Radocare;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;125;450;Masimo;Active;0;0
+BP0022;Power Supply Unit (PCB or Module)/ Transfomer;01-2406-0201-032;CHARGERMODULE ASSY;Amx-4;Unit;One Off;Company Site Office;;Biomedical;No;1;2;9432;10000;GE;Active;;0
+BP0007;Diaphragms/ Pumps;01-0802-0502-004;Ultrafiltration Pump;4008b;Unit;One Off;Company Site Office;;Biomedical;No;0;2;2180,25;2500;Fresenius;Active;;0
+BP0006;Cuffs;01-2002-0101-003;Cuff Cylindrical 34 Ats;Ats 1500/2000;Unit;One Off;Company Site Office;;Biomedical;No;0;5;460;500;Zimmer;Active;;0
+BP0006;Cuffs;01-2002-0101-002;Cuff Cylindrical 24 Ats;Ats 1500/2000;Unit;One Off;Company Site Office;;Biomedical;No;0;5;460;600;Zimmer;Active;;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-1705-001;6 lead wire for telemetri transmitter for ge apex PRO part no:421930-001;Apex Pro;Unit;Just In Time;Company Site Office;;Biomedical;No;0;20;125;200;Ge;Active;;3
+BP0025;Sensors/ Detectors;01-0803-0105-007;Temperature Probe 900MR860;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;789;850;Fisher & Paykel;Active;;4
+BP0001;Batteries/ UPS;01-0903-0303-005;Rechargeable Battery (TE-112);Te-112;Unit;One Off;Company Site Office;;Biomedical;No;0;5;130;200;Terumo;Active;;4
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-1708-002;Extension Cable PC-8;Radical;Unit;Just In Time;Company Site Office;;Biomedical;No;0;10;730;800;Masimo;Active;;5
+BP0001;Batteries/ UPS;01-0401-1003-001;Battery LI-ion 14.8V 6.6Ah 98Wh (for Heartstart XL+);HeartStart XL+;Unit;Just In Time;Company Site Office;;Biomedical;No;0;2;1850;2000;PHILIPS;Active;;0
+BP0012;Filters;01-1805-0101-004;Black Carbon Filter;Waterman 11;Unit;One Off;Company Site Office;;Biomedical;No;0;10;8;9,6;Waterman;Active;;1
+BP0012;Filters;01-1805-0101-002;Cotton Filter-10 Inch;Waterman 11;Unit;One Off;Company Site Office;;Biomedical;No;0;10;5;10;Waterman;Active;;9
+BP0011;Equipment Specific Parts;01-0903-0207-002;PLUNGER CLAMP ASSY;Top 5500;Unit;One Off;Company Site Office;;Biomedical;No;0;20;140;200;TOP;Active;;2
+BP0025;Sensors/ Detectors;01-1603-2601-002;Extension finger sensor Mindray PM-60 DB9;;Unit;Just In Time;Company Site Office;;Biomedical;No;1;5;203;215;Mindray;Active;;2
+BP0001;Batteries/ UPS;01-0203-0903-001;BATTERY MINDRAY DUO;Vs-800;Unit;Just In Time;Company Site Office;;Biomedical;No;1;15;500;800;Mindray;Active;;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0803-0107-001;Hose heater wire 900mr751;Mr 850aeu;Unit;One Off;Company Site Office;;Biomedical;No;0;5;320;368;Fisher & Paykel;Active;;3
+BP0004;Cables/ Lead Wires (or any part of it);01-0401-0201-012;3 Lead Wire;Cardiolife TEC-7100K;Unit;Just In Time;Company Site Office;;Biomedical;No;0;10;125;500;Nihon Kohden;Active;;5
+BP0001;Batteries/ UPS;01-0903-0504-001;Battery Smart Pack;Asena GS;Unit;One Off;Company Site Office;;Biomedical;No;0;5;425;700;ALARIS;Active;;15
+BP0020;Paddles/ Wheels/ Castors/Brakes;01-0401-0206-001;External Paddle for TEC-7621K;Cardiolife TEC-7621K;Unit;One Off;Company Site Office;;Biomedical;No;0;10;1166;3000;Nihon Kohden;Active;;3
+BP0025;Sensors/ Detectors;01-0903-0303-001;DROP SENSOR TERUMO TE-112;Te-112;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;3;10;1468;1500;Terumo;Active;;4
+BP0020;Paddles/ Wheels/ Castors/Brakes;01-0802-0503-096;CASTOR;4008s;Unit;One Off;Company Site Office;;Biomedical;No;0;60;118;500;Fresenius;Active;;0
+BP0001;Batteries/ UPS;01-1909-0304-001;Sypu Battery 12V 700Mah(3.6V-600Mah);Perfusor Compact;Unit;Just In Time;Centralized;;Biomedical;No;5;40;175;201,25;B.Braun;Active;0;14
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2700-004;SPO2 Nellcor Interm Cable;;Unit;Just In Time;Company Site Office;;Biomedical;No;0;5;550;900;DRAEGER;Active;;1
+BP0025;Sensors/ Detectors;01-0901-0104-001;Skin Temp Probe (CM-6450Y);V-2100g;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;650;900;ATOM;Active;;2
+BP0028;Transducers/ Probes;01-0303-0701-002;Ultrasound Tranducer;Fm 200;Unit;One Off;Company Site Office;;Biomedical;No;0;5;4500;7000;Philips;Active;;2
+BP0003;Bulbs/ Lamps;01-0403-0401-010;Bulb 15v 150W;;Unit;One Off;Company Site Office;;Biomedical;No;0;15;42;50;Siemens;Active;;1
+BP0026;Solenoids/ Valves/ Gauges;01-1903-0101-002;BP SET MANUAL Rubber Ball with Control Valve;Accoson;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;100;16,5;50;ACCOSON;Active;;6
+BP0025;Sensors/ Detectors;01-2202-1701-003;Exhalation Flow Sensor MT for E360;E360;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;300;500;NEWPORT;Active;;2
+BP0013;Heater Elements;01-0803-0105-009;Heater Wire adaptor dual 900MR805 humidifier MR850;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;598;700;Fisher & Paykel;Active;;1
+BP0012;Filters;01-0901-0101-002;FILTER ATOM;V850;Unit;Just In Time;Company Site Office;;Biomedical;No;10;30;110;150;Atom;Active;;0
+BP0010;Electronic Components;01-2401-0101-005;FUSE;Kxo-50f;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;50;0,4;20;TOSHIBA;Active;;498
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-1101-001;ECG 10 LEAD MORTARA;Eli 250;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;2;125;300;MORTARA;Active;;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0503-006;5-Lead Trunk Cable;S/5 Ccm;Unit;Just In Time;Company Site Office;;Biomedical;No;0;5;200;500;;Active;;0
+BP0025;Sensors/ Detectors;01-2202-1103-001;Oxygen Sensor HAMILTON;Hamilton T1;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;1000;2000;;Active;;6
+BP0011;Equipment Specific Parts;01-2305-0101-004;User Interface Assembly;750;Unit;One Off;Company Site Office;;Biomedical;No;0;15;680;900;;Active;;2
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-2305-0101-002;Swivel Air Hose With sensor;750;Unit;One Off;Company Site Office;;Biomedical;No;0;15;720;900;;Active;;4
+BP0019;O-Rings/ Belts/ Seals/ Gaskets/ Washers;01-0207-0101-003;GREEN BELT;Lactina Electric Plus;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;198;300;;Active;;3
+BP0001;Batteries/ UPS;01-0209-0000-002;BATTERY DOPPLER NICOLET;Imexdop Ct+;Unit;One Off;Company Site Office;;Biomedical;No;0;15;150;300;;Active;;15
+BP0012;Filters;01-1812-0401-001;Carbon Cartrid filter 10;;Unit;Just In Time;Company Site Office;;Biomedical;No;0;20;14;20;;Active;;2
+BP0012;Filters;01-1812-0402-001;Cartridge filter imicon 10;;Unit;Just In Time;Company Site Office;;Biomedical;No;5;20;14;20;;Active;;18
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0903-0503-001;Cover Syringe pump;IVAC PCAM;Unit;One Off;Company Site Office;;Biomedical;No;0;5;260;500;;Active;;5
+BP0025;Sensors/ Detectors;01-1604-2606-001;Spo2 Extension sensor;IntelliVue MP20;Unit;Just In Time;Company Site Office;;Biomedical;No;0;15;150;300;Philips;Active;;10
+BP0003;Bulbs/ Lamps;01-1301-1001-001;Halogen Bulb 6V 30W (Philips);;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;96;150;Philips;Active;;3
+BP0001;Batteries/ UPS;01-1603-2601-003;Rechargeable Batttery;;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;525;800;Mindray;Active;;1
+BP0004;Cables/ Lead Wires (or any part of it);01-2203-0403-001;FLOW SENSOR CONECTOR CABLE 8416600;Babylog VN500;Unit;Just In Time;Company Site Office;;Biomedical;No;2;5;943;1200;DRAEGER;Active;;0
+BP0003;Bulbs/ Lamps;01-1912-0201-002;HALOGEN Bulb Derung 24v 75w;HS-100;Unit;Just In Time;Company Site Office;;Biomedical;No;5;20;75;200;;Active;;11
+BP0011;Equipment Specific Parts;01-0909-0200-004;Battery Oralix;Or-1500h;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;10;300;360;;Active;;14
+BP0011;Equipment Specific Parts;01-1301-0109-001;Bulb mercury short ARC HBO 100/2;;Unit;Just In Time;Company Site Office;;Biomedical;No;0;30;480;700;OLYMPUS;Active;;6
+BP0013;Heater Elements;01-0803-0105-002;900MR754 Heater Wire;Mr850;Unit;One Off;Company Site Office;;Biomedical;No;0;5;300;500;Fisher & Paykel;Active;;0
+BP0013;Heater Elements;01-0803-0105-012;Heater Wire Adaptor 900MR559;;Unit;One Off;Company Site Office;;Biomedical;No;0;10;288;500;Fisher & Paykel;Active;;10
+BP0011;Equipment Specific Parts;01-1201-0101-006;LAMB CARTRIDGE ASSY 6 SERIES )(608125-501);6-Series;Unit;One Off;Company Site Office;;Biomedical;No;0;10;190;500;WELCH ALLYN;Active;;0
+BP0001;Batteries/ UPS;01-1502-0206-001;Lithium ION Battery 3.6V(Red);Keeler Profesional;Unit;Just In Time;Company Site Office;;Biomedical;No;1;5;480;1000;KEELER;Active;;0
+BP0003;Bulbs/ Lamps;01-0306-0303-001;Halogen Lamp;;Unit;Just In Time;Company Site Office;;Biomedical;No;2;5;1571;2000;;Active;;3
+BP0001;Batteries/ UPS;01-0903-0207-003;Battery Pack BP55;Top 5500;Unit;One Off;Company Site Office;;Biomedical;No;1;15;110;250;Top;Active;;11
+BP0008;Displays/ Backlights/ Panels;01-1601-1001-009;LCD MONITOR;Solar 8000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;380;500;;Active;;3
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0102-024;LEAD CABLE ECG;;Unit;Just In Time;Company Site Office;;Biomedical;No;1;15;250;500;Nihon Kohden;Active;;8
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2102-001;NIBP INTERCONNECT CABLE;IntelliVue MP60;Unit;Just In Time;Company Site Office;;Biomedical;No;1;10;55;150;Philips;Active;;13
+BP0001;Batteries/ UPS;01-1909-0205-010;Battery 9.6V 1.5Ah;Te-331;Unit;One Off;Company Site Office;;Biomedical;No;1;15;150;300;Terumo;Active;;3
+BP0006;Cuffs;01-1601-1200-003;CUFF ADULT DURABLE;Propaq CS 242;Unit;Just In Time;Company Site Office;;Biomedical;No;2;20;90;100;WELCH ALLYN;Active;;4
+BP0013;Heater Elements;01-0901-0601-001;Heater Elements;Pm78;Unit;Just In Time;Company Site Office;;Biomedical;No;1;100;500;700;;Active;;1
+BP0012;Filters;01-2202-0902-002;INLET FILTER (PACK OF 6 PCS);BiPAP Vision;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;75;100;Respironics;Active;;21
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0501-007;ECG 5 Lead;As/3;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;2;250;400;;Active;;6
+BP0001;Batteries/ UPS;01-2202-0402-002;"Rechargeable Battery (for Draeger Evita 4); Valve Regulated Lead Acid 12V 3.4Ah (LC-R123R4PG)";Evita 4;Unit;One Off;Company Site Office;;Biomedical;No;4;20;155;300;Draeger;Active;;2
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0102-023;3 LEAD ECG CABLE;6851k;Unit;Just In Time;Company Site Office;;Biomedical;No;1;10;150;250;Nihon Kohden;Active;;1
+BP0001;Batteries/ UPS;01-1603-0901-005;Rechargeable Battery 12V 2.3Ah;2000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;10;280;500;IVY;Active;;12
+BP0013;Heater Elements;01-0324-0000-002;High Temperature Filament;;Unit;Just In Time;Company Site Office;;Biomedical;No;10;20;512;600;;Active;;5
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-2602-005;Battery Li-Ion 2.4ah/26.64 wh;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;2;10;386;500;Philips;Active;;0
+BP0011;Equipment Specific Parts;01-0803-0102-020;FISHER & PAYKEL ELECTRICAL ADAPTOR 900MR858;Mr700/730;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;100;336;500;Fisher & Paykel;Active;;8
+BP0012;Filters;01-1813-0000-002;Cartridge filter big blue 20;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;15;110;250;Fresenius;Active;;9
+BP0001;Batteries/ UPS;01-1601-1101-001;Battery Pack 8.4V 8.0 Ah Ge Dash 2500;Dash 2500;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;1125;1500;;Active;;3
+BP0025;Sensors/ Detectors;01-1601-0703-001;Durasensor Adult Finger Clip Sensor;Sc7000;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;400;550;Siemens;Active;;1
+BP0003;Bulbs/ Lamps;01-0605-0103-001;SLIT LAMP BULB TAPCON HALOGEN;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;5;10;21;30;Topcon;Active;;12
+BP0012;Filters;01-1813-0001-001;Bacteria Filter 10;Mx-11;Unit;Just In Time;Company Site Office;;Biomedical;No;5;15;11;20;Fresenius;Active;;11
+BP0012;Filters;01-1813-0001-002;Cartridge filter imicon 20;Mx-11;Unit;Just In Time;Company Site Office;;Biomedical;No;5;15;20;45;Fresenius;Active;;0
+BP0025;Sensors/ Detectors;01-0803-0105-008;Temperature Probe 900MR869;;Unit;Just In Time;Company Site Office;;Biomedical;No;5;10;789;1000;Fisher & Paykel;Active;;2
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0303-005;10 Lead ECG Cable Kenz 108;Kenz 108;Unit;Just In Time;Company Site Office;;Biomedical;No;5;15;125;143,75;Suzuken;Active;0;12
+BP0025;Sensors/ Detectors;01-0803-0102-003;FISHER&PAYKEL Temperature Probe 900MR560;Mr700/730;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;16;386;443,9;Fisher & Paykel;Active;0;10
+BP0025;Sensors/ Detectors;01-0803-0102-019;FISHER&PAYKEL Temperature Probe 900MR860 FOR 850;Mr700/730;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;570;655,5;Fisher & Paykel;Active;0;0
+BP0028;Transducers/ Probes;01-0802-0503-015;Fresenius 4008S TMP Transducer Complete;4008s;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;1750;2012,5;FRESENIUS;Active;0;2
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0802-0503-018;Hose Red;4008s;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;40;48;55,2;Fresenius;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0802-0503-025;Plunger Holder 20ml;4008s;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;85;97,75;Fresenius;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-2406-0201-030;Rotor Board GE AMX4;Amx-4;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;5341;6142,15;GE;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-2406-0201-041;Fil KV Control Board GE AMX4;Amx-4;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;5002;5752,3;GE;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-2406-0201-043;CPU Board GE AMX4;GE AMX-4;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;5945,4;6837,21;GE;Active;0;1
+BP0001;Batteries/ UPS;01-2406-0201-045;Battery Upgrade Kit;GE AMX-4;Unit;Just In Time;Centralized;;Biomedical;No;0;10;3857,69;4436,34;GE;Active;0;1
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0301-003;Patient Cable;103;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;450;517,5;Suzuken;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0302-002;KENZ 106 10 LEAD ECG CABLE;106;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;14;800;920;Suzuken;Active;0;7
+BP0028;Transducers/ Probes;01-0303-0102-002;Toco Tranducer;M1353a;Unit;Just In Time;Centralized;;Biomedical;No;0;5;1175;1351,25;Hewlett Packard;Active;0;3
+BP0028;Transducers/ Probes;01-0303-0701-003;TOCO Avalon FEM20 Philips;Fm 200;Unit;Just In Time;Centralized;;Biomedical;No;0;2;4400;5060;Philips;Active;0;0
+BP0021;Power Cords/ Adaptors (or any part of it);01-0502-0102-008;Plug Top 3 Pin 13amp;Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;300;5,3;6,1;Common;Active;0;6
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1903-0101-014;Male Connector;Accoson;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;150;4;4,6;Accoson;Active;0;3
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1903-0101-015;Female Connector;Accoson;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;150;2,5;2,88;Accoson;Active;0;0
+BP0012;Filters;01-1907-0101-025;CLEMENT FILTER;Suc 84100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;85;97,75;Clements;Active;0;9
+BP0012;Filters;01-1907-0502-001;MADELA Filter Bacterial;046-1326;Unit;Just In Time;Centralized;;Biomedical;No;0;5;98;112,7;Madela;Active;0;4
+BP0003;Bulbs/ Lamps;01-1902-0101-001;Bulb,12V/4.2A 50W;L0185;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;20;23;Inami;Active;0;0
+BP0003;Bulbs/ Lamps;01-1902-0101-002;Bulb 6V4.5A;Inami;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;138;158,7;Inami;Active;0;1
+BP0003;Bulbs/ Lamps;01-1902-0201-001;Bulb 6V 4.5 A;Sl 400;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;215;247,25;Nidek;Active;0;0
+BP0021;Power Cords/ Adaptors (or any part of it);01-2300-0201-008;Power Cord 1.8M;Common/General;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;150;18;20,7;Volex;Active;0;0
+BP0006;Cuffs;01-0203-0102-003;Infant Cuff 2 Tb;9300xl/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;25;12;13,8;Critikon/Velcro;Active;0;37
+BP0006;Cuffs;01-0203-0102-009;Infant Cuff 1 Tb;9300xl/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;120;32;36,8;Critikon/Velcro;Active;0;45
+BP0006;Cuffs;01-0203-0102-011;X-Large Cuff Adult 2TB;9300xl/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;100;60;69;Critikon/Velcro;Active;0;32
+BP0006;Cuffs;01-0203-0101-003;Cuff Large Adult 1 Tb;8100/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;30;16;18,4;Critikon/Velcro;Active;0;50
+BP0006;Cuffs;01-0203-0301-018;Cuff Adult 1 Tb;Bp8800/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;300;30;34,5;Colin/Velcro;Active;0;4
+BP0006;Cuffs;01-0203-0301-002;Cuff Adult Large 2 Tb;Bp8800/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;16;18,4;Colin/Velcro;Active;0;0
+BP0006;Cuffs;01-0203-0301-003;Cuff Adult 2 Tb;Bp8800/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;20;500;33;37,95;Colin/Velcro;Active;0;23
+BP0006;Cuffs;01-0203-0301-004;Cuff Child 2 Tb;Bp8800/Local;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;30;30;34,5;Colin/Velcro;Active;0;36
+BP0008;Displays/ Backlights/ Panels;01-0903-0201-010;TOP 3300 FRONT PANEL ASSEMBLY (T6330516(5) );Top 3100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;2067;2377,05;Top;Active;0;0
+BP0003;Bulbs/ Lamps;01-1902-0302-001;BULB SLIT LAMP 6V 4.5A W/CENTER HAAG STREIT BM900;Bm900;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;70;80,5;Haag-Streit;Active;0;0
+BP0021;Power Cords/ Adaptors (or any part of it);01-1903-0701-001;Power Adaptor;Hem-907;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;7;80;92;Omron;Active;0;0
+BP0021;Power Cords/ Adaptors (or any part of it);01-0203-1201-002;POWER DAPTOR HEM 907 OMRON;Hem-907;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;68;78,2;Omron;Active;0;2
+BP0025;Sensors/ Detectors;01-2202-0401-006;DRAGER BABYLOG 8000 OXYGEN CELL 6850645 (GOLD PACKING) (OEM OOM201 );Fabius GS;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;10;974;1120,1;Draeger;Active;6;0
+BP0025;Sensors/ Detectors;01-2203-0401-008;Oxygen Sensor Capsule;Babylog 8000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;80;92;Draeger;Active;0;0
+BP0025;Sensors/ Detectors;01-2202-1401-001;Oxygen Sensor;Servo 300;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;350;402,5;Marquet;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-1000-002;MARQUETTE EXTENSION SPO2 SENSOR;Solar 8000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;300;345;Marquet;Active;0;3
+BP0025;Sensors/ Detectors;01-2202-1901-002;EXTENAL MEDICAL OXYGEN SENSOR MAX-250E;Avea;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;15;440;506;Viasys Vela;Active;6;4
+BP0001;Batteries/ UPS;01-1603-0103-001;Rechargeable Battery 6V;N-195;Unit;Just In Time;Centralized;;Biomedical;No;0;5;300;345;Nellcor;Active;0;0
+BP0001;Batteries/ UPS;01-1603-0106-004;Rechargeable Battery 6V;Nbp 290;Unit;Just In Time;Centralized;;Biomedical;No;0;30;65;74,75;Nellcor;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0901-001;MASIMO SPO2 FINGER SENSOR ADULT LNOP DCI;2000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;30;580;667;Ivy;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0901-006;SPO2 finger sensor child masimo;2000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;12;740;851;Ivy;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-1000-001;MARQUETTE SPO2 ADAPTOR CABLE HELLIGE;Solar 8000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;1130;1299,5;Marquet;Active;0;3
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-1705-008;MASIMO EXTENSIN CABLE M-LNCS-10;Radical;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;28;600;690;Masimo;Active;0;3
+BP0003;Bulbs/ Lamps;01-1201-0201-002;Bulb PENLON 55092;Penlon;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;50;57,5;Penlon;Active;0;6
+BP0011;Equipment Specific Parts;01-1302-0101-004;Pot Meter;Myomed 432;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;105;120,75;Jh-Enraf;Active;0;0
+BP0011;Equipment Specific Parts;01-1302-0101-005;Strap,250X3Cm;Myomed 432;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;7;1980;2277;Jh-Enraf;Active;0;0
+BP0003;Bulbs/ Lamps;01-1602-0101-001;MADELA LAMP PHOTOTHERAPY 18w/71;;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;500;25;28,75;Osram;Active;0;47
+BP0003;Bulbs/ Lamps;01-1504-0101-006;BULB KILLER VISTA 2.8V 6 1011-P-7042;Vista;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;95;109,25;Keeler;Active;0;1
+BP0003;Bulbs/ Lamps;01-1504-0101-003;Bulb 2.5V;Vista;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;4;175;201,25;Keeler;Active;0;0
+BP0018;Motors/ Micromotors/ Carbon brushes;01-0802-0502-005;Fresenius 4008S Stepper Motor;4008b;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;3150;3622,5;Fresenius;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0601-0201-002;Retractile Cable;HS-100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;105;120,75;Huntleigh;Active;0;0
+BP0007;Diaphragms/ Pumps;01-0802-0502-008;Fresenius 4008S Concentrate Pump Assy Complete;4008b;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;2080;2392;Fresenius;Active;0;0
+BP0007;Diaphragms/ Pumps;01-0802-0501-004;Fresenius 4008S Gear Pump Head;A2008d;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;4;1180;1357;Fresenius;Active;0;1
+BP0001;Batteries/ UPS;01-0503-0302-001;Rechargeable Battery 4.6V 700Mah;106;Unit;Just In Time;Centralized;;Biomedical;No;0;1;80;92;Suzuken;Active;0;0
+BP0001;Batteries/ UPS;01-0503-0303-001;SUZUKENZ 108 RECHARGEABLE BATTERY 12V 1200MAH;108;Unit;Just In Time;Centralized;;Biomedical;No;0;11;480;552;Suzuken;Active;0;10
+BP0021;Power Cords/ Adaptors (or any part of it);01-0502-0102-003;3 Pin Plug Adaptor;Icc300;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;100;6,9;7,94;Erbe;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0601-001;Ecg Cable;Lifescope;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;600;690;Nihon Kohden;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0103-012;PHILIPS LEAD 5 LEAD ECG CABLE M1633A;78353a;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;351;403,65;Hewlett Packard;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0106-002;Adaptor Cable 12Pin to 9Pin;M2601a;Unit;Just In Time;Centralized;;Biomedical;No;0;5;1200;1380;Hewlett Packard;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0401-0201-002;Patient Cable;Cardiolife TEC-7100K;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;350;402,5;Nihon Kohden;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0503-0102-011;Chest Electrode Paediatric Complete;6851k;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;36,3;41,75;Nihon Kohden;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0101-002;PHILIPS 3 Lead Trunk Cable, M1510A;78834;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;16;125;143,75;Hewlett Packard;Active;0;4
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0101-003;PHILIPS 3 LEAD ECG CALBLE M1613A;78834;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;240;276;Hewlett Packard;Active;0;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0101-005;EXTENSION PHILIPS 1900B;78834;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;630;724,5;Hewlett Packard;Active;0;3
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0103-001;3 Lead Cable;78353a;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;375;431,25;Hewlett Packard;Active;0;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0203-0301-009;Air Hose 3.5m CRITIKON;Bp8800;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;15;62;71,3;Colin;Active;0;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0203-0302-004;Tube L Mini;Bp8000;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;20;58,4;67,16;Colin;Active;0;0
+BP0003;Bulbs/ Lamps;01-0305-0101-001;Bulb, 6.2V0.5A;Clement Clarke;Unit;Just In Time;Centralized;;Biomedical;No;0;10;699;803,85;Clements;Active;0;0
+BP0001;Batteries/ UPS;01-0503-0102-002;Rechargeable Battery;6851k;Unit;Just In Time;Centralized;;Biomedical;No;0;47;163;187,45;Nihon Kohden;Active;0;0
+BP0001;Batteries/ UPS;01-0401-0201-001;NIHON KOHDEN TEC-7100K BATTERY;Cardiolife TEC-7100K;Unit;Just In Time;Centralized;;Biomedical;No;0;14;150;172,5;Nihon Kohden;Active;0;3
+BP0001;Batteries/ UPS;01-0401-0201-004;Rechargeable Battery Lcs-2912Nk;Cardiolife TEC-7100K;Unit;Just In Time;Centralized;;Biomedical;No;0;1;920;1058;Nihon Kohden;Active;0;11
+BP0001;Batteries/ UPS;01-0503-0102-022;Rechargeable Battery 12V 1.9Ah;6851k;Unit;Just In Time;Centralized;;Biomedical;No;0;15;450;517,5;Nihon Kohden;Active;0;0
+BP0001;Batteries/ UPS;01-0503-0105-001;NIHON KOHDEN 2012NK BATTERY;Kics 2012nk;Unit;Just In Time;Centralized;;Biomedical;No;0;3;150;172,5;Nihon Kohden;Active;0;2
+BP0001;Batteries/ UPS;01-1604-1801-001;Battery 12V 3700mAH;2300 Series;Unit;Just In Time;Centralized;;Biomedical;No;0;2;1100;1265;Nihon Kohden;Active;0;0
+BP0001;Batteries/ UPS;01-0903-0103-010;Battery Rechargeable W/Connector 7.2V;Infusomat P;Unit;Just In Time;Centralized;;Biomedical;No;0;20;160;184;B.Braun;Active;0;25
+BP0001;Batteries/ UPS;01-0802-0201-056;Battery;Hd-Secura;Unit;Just In Time;Centralized;;Biomedical;No;0;10;150;172,5;B.Braun;Active;0;0
+BP0001;Batteries/ UPS;01-0903-0101-002;Rechargeable Battery 7.2V 1.8Ah;Dropmat;Unit;Just In Time;Centralized;;Biomedical;No;1;10;159;182,85;B.Braun;Active;0;0
+BP0001;Batteries/ UPS;01-0903-0104-001;Battery Ifusomat Bbraun FM;Infusomat Fm;Unit;Just In Time;Centralized;;Biomedical;No;0;30;160;184;B.Braun;Active;0;9
+BP0001;Batteries/ UPS;01-0903-0205-002;Rechargeable Battery 9.63V 1.5Ah;Top 5200;Unit;Just In Time;Centralized;;Biomedical;No;0;20;120;138;Top;Active;0;1
+BP0001;Batteries/ UPS;01-0903-0201-005;Rechargeable Battery D84:D8712V 900MahTOP 3100 Battery;Top 3100;Unit;Just In Time;Centralized;;Biomedical;No;0;40;150;172,5;Top;Active;0;25
+BP0001;Batteries/ UPS;01-0903-0203-001;Rechargeable Battery;Top 2200;Unit;Just In Time;Centralized;;Biomedical;No;0;1;145;166,75;Top;Active;0;0
+BP0001;Batteries/ UPS;01-1909-0101-005;RECHARGEABLE BATTERY TOP 5300 12V 700MAH;Top 5100;Unit;Just In Time;Centralized;;Biomedical;No;0;11;217;249,55;Top;Active;0;49
+BP0025;Sensors/ Detectors;01-0903-0201-001;Drop Sensor T31 (88t);Top 3100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;350;402,5;Top;Active;0;0
+BP0001;Batteries/ UPS;01-1909-0201-001;DRAGER OXYLOG 2000 BATTERY;Stc523;Unit;Just In Time;Centralized;;Biomedical;No;0;13;100;115;Terumo;Active;0;1
+BP0001;Batteries/ UPS;01-1909-0201-017;Battery;Stc523;Unit;Just In Time;Centralized;;Biomedical;No;0;1;150;172,5;Terumo;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0901-0701-003;Corner Bracket;Amenic;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;380;437;Ameda;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0901-0201-013;Corner Bracket;Amelette;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;55;46;52,9;Ameda;Active;0;23
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0901-0202-001;AMEDA Tube Grommet;T1500;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;90;103,5;Ameda;Active;0;4
+BP0025;Sensors/ Detectors;01-0903-0101-009;Drop Sensor Complete Infusomat;Dropmat;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;390;448,5;B.Braun;Active;0;0
+BP0025;Sensors/ Detectors;01-0903-0103-003;Infusomat, Drop Sensor Complete;Infusomat;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;380;437;B.Braun;Active;0;4
+BP0025;Sensors/ Detectors;01-0903-0102-010;B.BRAUN Drop Sensor Complete 34502629;871504/1;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;12;377;433,55;B.Braun;Active;0;8
+BP0013;Heater Elements;01-0803-0102-015;Element Replacement Kit;Mr700/730;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;132;151,8;Fisher & Paykel;Active;0;0
+BP0013;Heater Elements;01-0803-0102-001;Heater Wire;Mr700/730;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;400;460;Fisher & Paykel;Active;0;0
+BP0026;Solenoids/ Valves/ Gauges;01-0802-0503-013;Solenoid Valve - Dual Port;4008s;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;179;205,85;Fresenius;Active;0;4
+BP0026;Solenoids/ Valves/ Gauges;01-0802-0503-029;Fresenius 4008S Pressure reducing valve;4008s;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;4;348,11;400,33;Fresenius;Active;0;1
+BP0012;Filters;01-0901-0304-003;AIR SHIELD FILTER PACK OF 4 C400 & 450;C400 & 450;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;100;46,85;53,88;Air Shields;Active;0;21
+BP0012;Filters;01-0901-0302-003;Air Filter (Pack Of 4);C100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;200;225;258,75;Air Shields;Active;0;0
+BP0012;Filters;01-0901-0302-027;Bacterial Filter;C100;Unit;Just In Time;Centralized;;Biomedical;No;0;1;248;285,2;Air Shields;Active;0;0
+BP0003;Bulbs/ Lamps;01-2602-0200-015;BULB HALOGEN 12V 50V (LEICA);HS-100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;320;368;Leica;Active;0;3
+BP0003;Bulbs/ Lamps;01-1305-0101-001;Halogen Bulb 12V 50W;M690;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;290;333,5;Leica;Active;0;0
+BP0003;Bulbs/ Lamps;01-1301-0604-001;BULB OSRAM 64261 12V 30W;Dmls;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;60;69;Leica;Active;0;17
+BP0009;Electrodes;01-0504-0101-004;Potassium Electrode;M614;Unit;Just In Time;Centralized;;Biomedical;Yes;0;2;721,6;829,84;Chiron;Active;3;0
+BP0009;Electrodes;01-0504-0101-013;Electrode,Refill Cassette;M614;Unit;Just In Time;Centralized;;Biomedical;Yes;0;1;1306;1501,9;Chiron;Active;3;0
+BP0009;Electrodes;01-0202-0101-001;Electrode,Po2;M238;Unit;Just In Time;Centralized;;Biomedical;Yes;0;3;1724;1982,6;Chiron;Active;3;0
+BP0009;Electrodes;01-0202-0101-003;Electrode,Ph;M238;Unit;Just In Time;Centralized;;Biomedical;Yes;0;3;600;690;Chiron;Active;3;0
+BP0003;Bulbs/ Lamps;01-1301-0000-007;BULB OLYMPUS 6V,10WGE (AX2017);Chz Series;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;27;40;46;Olympus;Active;0;11
+BP0003;Bulbs/ Lamps;01-1301-0101-001;Bulb 6V 20W;Olympus;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;86;35;40,25;Olympus;Active;0;46
+BP0003;Bulbs/ Lamps;01-1301-0102-013;Bulb 6V 30W (Olympus);Ch Series 7 Bh Series;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;100;35;40,25;Olympus;Active;0;0
+BP0001;Batteries/ UPS;01-2300-0201-002;Battery AAA (Alkaline);Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;20;1000;1,6;1,84;Energizer;Active;0;1
+BP0001;Batteries/ UPS;01-2300-0201-003;Battery C (Alkaline);Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;600;3,7;4,26;Energizer;Active;0;175
+BP0001;Batteries/ UPS;01-2300-0201-004;Battery D (Alkaline);Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;400;4,1;4,72;Energizer;Active;0;49
+BP0001;Batteries/ UPS;01-2300-0201-005;Battery 9V (Alkaline);Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;200;6,25;7,19;Energizer;Active;0;26
+BP0001;Batteries/ UPS;01-0203-0101-002;CRITIKON 8100 Battery;8101;Unit;Just In Time;Centralized;;Biomedical;No;0;1;120;138;Critikon;Active;0;4
+BP0001;Batteries/ UPS;01-0203-0104-003;Battery 6V;Dinamap Procare 300;Unit;Just In Time;Centralized;;Biomedical;No;0;10;80;92;Critikon;Active;0;0
+BP0001;Batteries/ UPS;01-0203-0403-001;Rechargeable Battery 6V;Spot Vital;Unit;Just In Time;Centralized;;Biomedical;No;0;10;80;92;Welch Allyn;Active;0;0
+BP0001;Batteries/ UPS;01-1201-0101-008;Battery Rech. 3.6V 1.8Ah;6-Series;Unit;Just In Time;Centralized;;Biomedical;No;0;5;580;667;Welch Allyn;Active;0;1
+BP0001;Batteries/ UPS;01-1502-0101-011;Rechargeable Battery 3.5V;Welch Allyn;Unit;Just In Time;Centralized;;Biomedical;No;0;10;235;270,25;Welch Allyn;Active;0;0
+BP0003;Bulbs/ Lamps;01-2404-0101-004;Halogen Bulb 12V 100W 6834 FO;Polydoros;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;101;30;34,5;Siemens;Active;0;12
+BP0003;Bulbs/ Lamps;01-2406-0301-001;Bulb,Collimator,12v 100w (Philips 64625) 50Hr;Mobilett B;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;7,8;8,97;Siemens;Active;0;14
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0202-0102-006;Sample & Reagent Tube Kit;M248;Unit;Just In Time;Centralized;;Biomedical;No;0;2;940;1081;Chiron;Active;0;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0202-0102-011;Pre-Heater Tubing Kit;M248;Unit;Just In Time;Centralized;;Biomedical;No;0;10;800;920;Chiron;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0401-020;OXIBAND ADULT / NEONATAL SENSOR;Npb 190;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;500;575;Nellcor;Active;0;1
+BP0025;Sensors/ Detectors;01-1603-0201-002;Oxi-Clip Finger Sensor;4500;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;1520;1748;Invivo;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-2201-006;GRASEBY SOLARIS SPO2 FINGER SENSOR ADULT;340;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;600;690;Palco Lab;Active;0;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0701-013;Ecg 5 Lead , Grabber Set Iec;Sc6000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;350;402,5;Siemens;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0702-002;DATEX OHMEDA 3 LEAD WIRE;Sg9000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;337;387,55;Siemens;Active;0;3
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0703-002;3 LEAD WIRE;Sc7000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;610;701,5;Siemens;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-0901-001;Spo2 Extension Cable;Sc7000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;25;800;920;Siemens;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0101-001;NELLCOR SPO2 Extension Cable Sensor DEC-8;N-185;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;40;138;158,7;Nellcor;Active;0;6
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0104-001;Extension Cable Symphony;N3000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;11;740;851;Nellcor;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0104-007;NELLCOR SPO2 Extension Cable Original DOC 10;N3000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;138;158,7;Nellcor;Active;0;4
+BP0025;Sensors/ Detectors;01-1603-0104-003;NELLCOR SPO2 FINGER SENSOR Pediatric Spot-Check, Dura-Y Sensor;N3000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;16;500;575;Nellcor;Active;0;1
+BP0025;Sensors/ Detectors;01-1603-0102-001;NELLCOR SPO2 FINGER CLIP SPO2 SENSOR DS100A;N-190;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;210;241,5;Nellcor;Active;0;44
+BP0025;Sensors/ Detectors;01-1603-0103-002;Dura-Y Multi Site Sensor;N-195;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;630;724,5;Nellcor;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0103-006;Oxygen Sensor Adult/Neonatal Oxiband;N-195;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;500;575;Nellcor;Active;0;0
+BP0003;Bulbs/ Lamps;01-1201-0101-004;Bulb WELCH ALLYN 08500;6-Series;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;55;63,25;Welch Allyn;Active;0;3
+BP0003;Bulbs/ Lamps;01-1502-0101-001;Bulb;Welch Allyn;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;250;287,5;Welch Allyn;Active;0;0
+BP0003;Bulbs/ Lamps;01-1502-0101-003;Bulb WELCH ALLYN 03000;Welch Allyn;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;55;63,25;Welch Allyn;Active;0;8
+BP0003;Bulbs/ Lamps;01-1502-0101-004;Bulb WELCH ALLYN 03400;Welch Allyn;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;52;59,8;Welch Allyn;Active;0;15
+BP0003;Bulbs/ Lamps;01-1502-0101-009;Bulb WELCH ALLYN 04400;Welch Allyn;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;14;55;63,25;Welch Allyn;Active;0;1
+BP0003;Bulbs/ Lamps;01-1203-0301-001;Lamp For Mfi/Vdx;Udx-300;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;2;255;293,25;Welch Allyn;Active;0;0
+BP0003;Bulbs/ Lamps;01-1505-0101-002;Bulb Halogen 22.8V 50W;Hanaulux;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;65;74,75;Heraeus;Active;0;0
+BP0003;Bulbs/ Lamps;01-1505-0101-004;BULB HANAULUX BLUE 22.8V 90W 130/90 NR.56053198 (HERAEUS);Blue 130/90;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;81;200;230;Hanaulux;Active;0;8
+BP0003;Bulbs/ Lamps;01-1301-0603-001;BULB PHILIPS 409843 TYPE 6550 15V 150W 409843;Mel 61;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;27;31,05;;Active;0;1
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1601-0503-010;Oxytip Interconnect/Universal;S/5 Ccm;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;23;10;11,5;;Active;0;0
+BP0001;Batteries/ UPS;01-0901-0304-008;Rechargeable Battery 8.4V 300Ah;C400 & 450;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;280;322;;Active;0;0
+BP0001;Batteries/ UPS;01-1603-1401-001;AIR SHIELD C100 Rechargeable Battery 6V 2.5Ah;S/5 Ccm;Unit;Just In Time;Centralized;;Biomedical;No;0;10;80;92;;Active;0;5
+BP0001;Batteries/ UPS;01-1603-1403-002;Battery 12V;Biox 3740;Unit;Just In Time;Centralized;;Biomedical;No;0;3;300;345;;Active;0;0
+BP0001;Batteries/ UPS;01-1601-0201-039;Rechargeable Battery 12V;90385;Unit;Just In Time;Centralized;;Biomedical;No;0;1;120;138;;Active;0;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1907-0101-003;ESHMAN TAPERED CONNECTOR;Suc 84100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;7,5;8,63;;Active;0;7
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-1401-001;300 Series 3 Lead Trunk Cable 3M/10';S/5 Compact;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;500;575;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0503-013;DATEX OHMEDA Spo2 Extension Cable (OXY-OL3);S/5 Ccm;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;150;172,5;;Active;0;3
+BP0004;Cables/ Lead Wires (or any part of it);01-1602-0503-003;ECG Trunk Cable;S/5 Ccm;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;190;218,5;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0503-007;Oxytip Interconnect Cable;S/5 Ccm;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;800;920;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0402-004;SPO2 Extension Cable;S/5;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;27;135;155,25;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-1405-002;EXTENSION CABLE TS-M3;Trusat;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;14;290;333,5;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-1401-003;EXTENSION CABLE TS-N3;S/5;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;352;404,8;;Active;0;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0201-004;NOVAMETRIX SPO2 CABLE ADAPTOR NOR;90385;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;11;360;414;;Active;0;5
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0201-009;3 Lead Wire Set;90385;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;190;218,5;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0201-010;SPACELAB 3 Lead Ecg Trunk Cable;90385;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;11;345;396,75;;Active;0;3
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0201-012;3 Lead Ecg Shilded Patient Cable For Pcms Only;90385;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;90;103,5;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0201-013;5 Lead Ecg Shilded Patient Cable For 90600/90700;90385;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;300;345;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0501-003;Ecg Cable;As/3;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;300;345;;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0401-027;SPO2 Extension Cable;S/5;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;180;207;;Active;0;0
+BP0025;Sensors/ Detectors;01-2202-0000-003;Oxygen Sensor C-1;7200;Unit;Fast Moving Item;Company Site Office;;Biomedical;Yes;1;10;145;166,75;;Active;6;0
+BP0025;Sensors/ Detectors;01-2202-0101-005;Flow Sensor Q2 W/Eprom;7200;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;3750;4312,5;;Active;0;1
+BP0025;Sensors/ Detectors;01-2202-0101-006;Exhalation Sensor (Q3/T3);7200;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;2;3400;3910;;Active;0;0
+BP0025;Sensors/ Detectors;01-2202-1501-002;DATEX OHMEDA FLOW SENSOR 1503-3856-000 (PENDEK);Aestiva 5;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;388;446,2;;Active;0;7
+BP0025;Sensors/ Detectors;01-1601-0503-001;Skin Temperature Probe;S/5 Ccm;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;321;369,15;;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-0503-004;Oxytip Finger Sensor;S/5 Ccm;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;22;315;362,25;;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-0503-011;Spo2 Finger Sensor;S/5 Ccm;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;645;741,75;;Active;0;0
+BP0022;Power Supply Unit (PCB or Module)/ Transfomer;01-0901-0302-020;Retrokit Power;C100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;520;598;;Active;0;0
+BP0022;Power Supply Unit (PCB or Module)/ Transfomer;01-0803-0103-002;Power PCB Assembly;900mr;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;1267;1457,05;;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-1402-002;Spo2 Reusable Finger Sensor Oxy-F4-H;3800;Unit;Just In Time;Centralized;;Biomedical;No;0;1;1250;1437,5;;Active;0;0
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-1601-0502-008;PM KIT As/5;S/5;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;18;1000;1150;;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-0901-0302-021;Display Board Pcb;C100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;1000;1150;;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-0803-0103-001;Control PCB Assembly;900mr066;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;1267;1457,05;;Active;0;0
+BP0018;Motors/ Micromotors/ Carbon brushes;01-0901-0306-001;Fan Motor;Ti-100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;1800;2070;;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-0201-003;NOVAMETRIX SPO2 PROBE FINGER ADULT;90385;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;11;950;1092,5;;Active;0;0
+BP0011;Equipment Specific Parts;01-1907-0101-001;Suction Jar Shatterproof Plastic;Suc 84100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;1350;1552,5;;Active;0;0
+BP0011;Equipment Specific Parts;01-1907-0102-006;CLEMENT Sp BLUE Inlet Nipple;82620;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;30;35;40,25;;Active;0;3
+BP0028;Transducers/ Probes;01-1601-0201-041;Bd'S Pressure Tranducer P23Xl-1;90385;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;3750;4312,5;;Active;0;0
+BP0028;Transducers/ Probes;01-1601-0201-033;ARGON (BD) Pressure Transducer P23xl;90385;Unit;Just In Time;Centralized;;Biomedical;No;0;7;1500;1725;;Active;0;1
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1907-0101-002;ESHMAN SPARE LID FOR RECEIVED JAR;Suc 84100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;480;552;;Active;0;0
+BP0025;Sensors/ Detectors;01-0901-0101-001;DYNAL Skin Temp Probe;V850;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;300;345;ATOM;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-1301-006;PHILIPS SPO2 FINGER SENSOR CHILE M1193A;V24;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;650;747,5;AGILENT;Active;0;2
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-1301-003;8-12 Pin Spo2 Sensor Adaptor Cable;V24;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;250;287,5;AGILENT;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-1301-004;3-Lead Ecg Patient Trunk Cable Aam;V24;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;390;448,5;AGILENT;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-1301-005;PHILIPS 3 LEAD ECG MINI CLIP M1608;V24;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;3;208;239,2;AGILENT;Active;0;1
+BP0006;Cuffs;01-2002-0101-001;Cuff Cylindrical 18 Ats;Ats 1500/2000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;460;529;Zimmer;Active;0;2
+BP0006;Cuffs;01-2002-0101-006;Cuff Cylindrical 30 Ats;Ats 1500/2000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;460;529;Zimmer;Active;0;3
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-2202-0302-015;Maintenance Kit 3000H;Sv300;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;7;1163;1337,45;SIEMENS;Active;0;0
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-2202-0303-007;Maintenance Kit 5000H;Sv300;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;7;990;1138,5;SIEMENS;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-2202-0302-019;Air Module;Sv300;Unit;Just In Time;Centralized;;Biomedical;No;0;2;10500;12075;SIEMENS;Active;0;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-2202-0401-007;CONNECTOR SPRILOG SENSOR;Evita;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;104,38;120,04;Draeger;Active;0;13
+BP0006;Cuffs;01-0203-0102-001;Adult Cuff;9300xl;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;79;90,85;CRITIKON;Active;0;0
+BP0006;Cuffs;01-0203-0103-001;Small Adult Cuff;1846sx/Bp8800;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;166,9;191,94;CRITIKON;Active;0;0
+BP0006;Cuffs;01-0203-0103-002;Child Cuff;1846sx;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;54;62,1;CRITIKON;Active;0;3
+BP0019;O-Rings/ Belts/ Seals/ Gaskets/ Washers;01-2202-0801-007;O-Ring;Ref-Vent 100-V;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;11;12,65;Ulco;Active;0;2
+BP0019;O-Rings/ Belts/ Seals/ Gaskets/ Washers;01-0101-0101-013;Seal/Bodok;Elite 615;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;210;8;9,2;Ulco;Active;0;2
+BP0011;Equipment Specific Parts;01-0101-0101-036;MK4 STAINLESS STELL MEDICAL AIR;Elite 615;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;40;65;74,75;Ulco;Active;0;23
+BP0011;Equipment Specific Parts;01-0104-0101-005;Silencer;Ev500;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;2,4;2,76;Ulco;Active;0;0
+BP0011;Equipment Specific Parts;01-0101-0101-032;1/2 Clip;Elite 615;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;50;1,1;1,27;Ulco;Active;0;0
+BP0011;Equipment Specific Parts;01-0101-0101-033;9/16 Clip;Elite 615;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;50;1,3;1,5;Ulco;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0203-0301-007;COLIN BP 8800 Front Case;Bp8800;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;733;842,95;Colin;Active;0;1
+BP0011;Equipment Specific Parts;01-0203-0302-005;COLIN Luer Lock Fitting;Bp8000;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;32;59,7;68,66;Colin;Active;0;14
+BP0006;Cuffs;01-1903-0101-003;Cuff Complete Adult;Accoson;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;200;12,5;14,38;ACCOSON;Active;0;0
+BP0006;Cuffs;01-1903-0101-005;Cuff Complete Pead ACCOSON;Accoson;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;10;11,5;ACCOSON;Active;0;3
+BP0006;Cuffs;01-1903-0101-019;Bp Cuff Bandage Adult Acoson;Accoson;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;10;11,5;ACCOSON;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-1909-0305-001;E Module;Perfusor Compact S;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;950;1092,5;B.BRAUN;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-0903-0105-001;N MODULE (220-240V) B BRAUN 34506683;Perfusor Compact;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;400;460;B.BRAUN;Active;0;2
+BP0015;Keyboards/ Keypads/ Remotes;01-0903-0104-006;Foil Keyboard BBRAUN;Infusomat Fm;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;200;230;B.BRAUN;Active;0;1
+BP0001;Batteries/ UPS;01-0901-0105-001;RECHARGEABLE BATTERY ATOM 12V;V-850/80;Unit;Just In Time;Centralized;;Biomedical;No;0;10;475;546,25;Atom;Active;0;0
+BP0003;Bulbs/ Lamps;01-1602-0101-002;MEDELA LAMP BODY MADELA;Medela;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;1495;1719,25;MEDELA;Active;0;3
+BP0003;Bulbs/ Lamps;01-1602-0101-004;MEDELA Lamp Grid MADELA;38;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;685;787,75;MEDELA;Active;0;6
+BP0003;Bulbs/ Lamps;01-1602-0201-002;PHOTHOTHERAPY LAMP PHOTOTHERAPY TL20/52;Atom/Philips;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;200;21;24,15;ATOM/philips;Active;0;54
+BP0003;Bulbs/ Lamps;01-1602-0201-003;PHOTOTHERAPY LAMP TLD 30/03;Atom/Philips;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;26;29,9;ATOM/philips;Active;0;250
+BP0003;Bulbs/ Lamps;01-1602-0201-007;PHOTOTHERAPY LAMP 40/03;Atom/Philips;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;10;200;31;35,65;ATOM/philips;Active;0;25
+BP0025;Sensors/ Detectors;01-1603-0401-008;Po Finger Clip Sensor;3740;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;15;323;371,45;OHMEDA;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0401-009;Po Ohmeda Flex 11 Sensor;3740;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;300;345;OHMEDA;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0401-010;Ear Clip Sensor;3740;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;150;172,5;OHMEDA;Active;0;0
+BP0007;Diaphragms/ Pumps;01-0903-0105-002;A MODULE B Braun Pump;Perfusor Compact;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;712;818,8;B.BRAUN;Active;0;1
+BP0001;Batteries/ UPS;01-1601-0701-004;Battery;Sc6000;Unit;Just In Time;Centralized;;Biomedical;No;0;1;400;460;SIEMENS;Active;0;0
+BP0011;Equipment Specific Parts;01-0903-0201-009;TOP 3300 HANDLE MAIN UNIT (T6335602(2));Top 3100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;76;87,4;TOP;Active;0;0
+BP0011;Equipment Specific Parts;01-1909-0101-004;TOP 5100 Power Regulator KWS10-15;Top 5100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;26;250;287,5;TOP;Active;0;7
+BP0011;Equipment Specific Parts;01-1909-0104-002;TOP 5300 Base WITH HANDLE T6535604;Top 5300;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;277;318,55;TOP;Active;0;1
+BP0011;Equipment Specific Parts;01-1910-0101-003;Slider Subass;Top 5300;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;15;441;507,15;TOP;Active;0;0
+BP0011;Equipment Specific Parts;01-1909-0201-004;TOP 5300 Clamp Unit T653-044;Stc523;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;20;190;218,5;TERUMO;Active;0;1
+BP0011;Equipment Specific Parts;01-1909-0204-006;Boot Unit;Te-311;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;122;140,3;TERUMO;Active;0;0
+BP0011;Equipment Specific Parts;01-1909-0204-007;Dial Unit;Te-311;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;60;110;126,5;TERUMO;Active;0;14
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1909-0201-016;Slider Cover Unit;Stc523;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;410;471,5;TERUMO;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1909-0204-015;Sypu Lower Case;Te-311;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;252;289,8;TERUMO;Active;0;0
+BP0011;Equipment Specific Parts;01-1909-0302-001;Universal Clamp Complete;871504/1;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;372;427,8;B.BRAUN;Active;0;1
+BP0011;Equipment Specific Parts;01-1909-0305-002;Drive Unit Complete;Perfusor Compact S;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;1330;1529,5;B.BRAUN;Active;0;0
+BP0022;Power Supply Unit (PCB or Module)/ Transfomer;01-1909-0304-005;Sypu A Module(Battery R/Able Power Pack & Board);Perfusor Compact;Unit;Just In Time;Centralized;;Biomedical;No;1;2;1500;1725;B.BRAUN;Active;0;0
+BP0001;Batteries/ UPS;01-1909-0701-001;Rechargeable Battery;404;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;80;92;Akas;Active;0;0
+BP0003;Bulbs/ Lamps;01-2009-0101-001;Bulb FML2TEX-N (For Eye Treadment Chair);Md600u;Unit;Just In Time;Centralized;;Biomedical;No;0;5;75;86,25;OPTION;Active;0;0
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-2202-1301-004;PPM KIT 10K FOR 10.4 GUI;Npb 840;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;900;1035;NELLCOR;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0401-0101-002;PHYSIO CONTROL LP9B 3 lead Trunk Cable;Lp9b;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;150;172,5;PHYSIO CONTROL;Active;0;10
+BP0011;Equipment Specific Parts;01-0401-0101-009;Recorder Assy;Lp9b;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;3100;3565;PHYSIO CONTROL;Active;0;0
+BP0011;Equipment Specific Parts;01-0401-0101-003;PHYSIO CONTROL LP9B Printer Roller Assy 21330-000656;Lp9b;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;490;563,5;PHYSIO CONTROL;Active;0;2
+BP0003;Bulbs/ Lamps;01-0306-0203-007;BULB HITACHI HALOGEN LAMP 12V 20W P/N:705-0840;H-747;Unit;Just In Time;Centralized;;Biomedical;No;0;5;80;92;HITACHI;Active;0;3
+BP0001;Batteries/ UPS;01-0203-1201-001;BATTERY OMRON 4.8V 1.6 AH;Hem-907;Unit;Just In Time;Centralized;;Biomedical;No;0;30;120;138;Omron;Active;0;18
+BP0003;Bulbs/ Lamps;01-2205-0301-001;Xenon Lamp 300;400 (Vip);Unit;Just In Time;Centralized;;Biomedical;No;0;10;3000;3450;Fujinon;Active;0;0
+BP0003;Bulbs/ Lamps;01-1505-0301-001;OL BULB HALOGEN 24V 150W W/O REFLECTOR;Rx 600;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;26;29,9;Eschman;Active;0;21
+BP0003;Bulbs/ Lamps;01-1301-0701-001;Bulb Halogen 12V 100W Reflector;S4/Opmics;Unit;Just In Time;Centralized;;Biomedical;No;0;20;12;13,8;CARL ZEISS;Active;0;0
+BP0003;Bulbs/ Lamps;01-1301-0701-003;Mic Bulb Halogen 12V 100W Reflector;S4/Opmics;Unit;Just In Time;Centralized;;Biomedical;No;0;20;18;20,7;CARL ZEISS;Active;0;0
+BP0003;Bulbs/ Lamps;01-1301-0702-001;Mic Lamp Regulation Board;Opmi 6 On S3;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;350;402,5;CARL ZEISS;Active;0;0
+BP0003;Bulbs/ Lamps;01-1305-0201-001;Halogen Bulb 6V 30W(Carl Zies);Opm1;Unit;Just In Time;Centralized;;Biomedical;No;0;8;105;120,75;CARL ZEISS;Active;0;2
+BP0011;Equipment Specific Parts;01-1301-0104-002;OLYMPUS CH-120V,30WSB;Bx40,50,Ch40,Ch30;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;7;65;74,75;OLYMPUS;Active;0;4
+BP0001;Batteries/ UPS;01-0401-0101-001;Battery for physio control Defibrillator LP9B;Lp9b;Unit;Just In Time;Centralized;;Biomedical;No;0;12;450;517,5;PHYSIO CONTROL;Active;0;0
+BP0001;Batteries/ UPS;01-0401-0104-002;Life Pack Nicd Battery;Lp12;Unit;Just In Time;Centralized;;Biomedical;No;0;4;450;517,5;PHYSIO CONTROL;Active;0;0
+BP0001;Batteries/ UPS;01-0401-0104-003;Rechargeable Battery;Lp12;Unit;Just In Time;Centralized;;Biomedical;No;0;1;1100;1265;PHYSIO CONTROL;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-0401-0101-010;Main Pcb Assembly;Lp9b;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;5500;6325;PHYSIO CONTROL;Active;0;0
+BP0001;Batteries/ UPS;01-0401-0502-002;Rechargeable Battery 12V 4.5Ah;Codemaster;Unit;Just In Time;Centralized;;Biomedical;No;0;2;300;345;HEWLETT PACKARD;Active;0;0
+BP0001;Batteries/ UPS;01-0109-0401-001;Battery Ups;;Unit;Just In Time;Centralized;;Biomedical;No;0;10;145;166,75;UNICOM;Active;0;0
+BP0007;Diaphragms/ Pumps;01-2203-0101-012;Diaphragm (Silicon);Iv100b;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;30;50;57,5;SECHRIST;Active;0;24
+BP0015;Keyboards/ Keypads/ Remotes;01-0503-0302-003;Keyboard Panel;106;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;450;517,5;SUZUKEN;Active;0;0
+BP0011;Equipment Specific Parts;01-0503-0302-007;Thermal Head;106;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;800;920;SUZUKEN;Active;0;0
+BP0011;Equipment Specific Parts;01-0503-0302-009;Printer Roller Spool;106;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;35;40,25;SUZUKEN;Active;0;0
+BP0011;Equipment Specific Parts;01-0901-0101-005;Pb,Inverter;V850;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;16;18,4;ATOM;Active;0;0
+BP0003;Bulbs/ Lamps;01-1202-0301-001;BULB HEINE X.04.88.104 6V BINOCULAR;Oculight Gl;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;255;293,25;Iris Medical;Active;0;2
+BP0011;Equipment Specific Parts;01-0803-0101-002;Infant Humidifier Chamber;Mr600/601/602;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;860;989;Fisher & Paykel;Active;0;0
+BP0011;Equipment Specific Parts;01-0803-0102-021;FISHER & PAYKEL ELECTRICAL ADAPTOR 900MR558;900mr558;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;21;360;414;Fisher & Paykel;Active;0;3
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0803-0102-002;FISHER&PAYKEL Hose Heater Wire 900MR751;Mr700/730;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;378;434,7;Fisher & Paykel;Active;0;8
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0803-0102-005;FISHER & PAYKEL HOSE HEATER WIRE ASSY 900MR510;Mr700/730;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;230;264,5;Fisher & Paykel;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0502-0201-029;VALLEYLAB Cable Bipolar Active;Sse 2l;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;6;450;517,5;VALLEYLAB;Active;0;3
+BP0004;Cables/ Lead Wires (or any part of it);01-0502-0201-030;Cable Bipolar Forceps;Sse 2l;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;499;573,85;VALLEYLAB;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0502-0201-039;VALLEYLAB ESU HANDSEITCHING-SETCH PENCIL E2100;Sse 2l;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;310;356,5;VALLEYLAB;Active;0;2
+BP0025;Sensors/ Detectors;01-1603-0501-002;Finger Probe Spo2 Sensor;Poet TE Plus;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;4;580;667;CRITICARE;Active;0;0
+BP0001;Batteries/ UPS;01-1601-1501-003;Nicked Rechargeable Battery 16Vdc 2.5Ah;Sc404;Unit;Just In Time;Centralized;;Biomedical;No;0;10;140;161;Propaq;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1602-0601-003;Holder Bulb Assy;Biliblanket;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;12;260;299;OHMEDA;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0401-011;Oxylead Interconnect Cable;3740;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;45,5;52,33;OHMEDA;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0801-001;Spo2 Finger Sensor;S100e;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;204,5;235,18;SIMED;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-0402-007;Spo2 Probe,Neonate,Stater Kit;Accutor Plus;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;4;1346;1547,9;Datascope;Active;0;0
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-1601-0405-001;Hose Connect, Trio;Trio;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;480;552;Datascope;Active;0;0
+BP0006;Cuffs;01-1601-0403-005;Cuff Infant;Passport 2lt Ired;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;50;15;17,25;Datascope;Active;0;25
+BP0011;Equipment Specific Parts;01-0503-0102-006;NIHON KOHDEN Paper Shaft AAA-20473 (20013);6851k;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;50;57,5;Nihon Kohden;Active;0;3
+BP0011;Equipment Specific Parts;01-0503-0102-016;NIHON KOHDEN 6851K Strap 38cm;6851k;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;11;3,6;4,14;Nihon Kohden;Active;0;10
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0601-0201-003;Cover For Battery;HS-100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;175;201,25;HUNTLEIGH;Active;0;1
+BP0025;Sensors/ Detectors;01-1603-0603-002;NOVAMETRIX SPO2 FINGER SENSOR Y;515c;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;23;620;713;NOVAMETRIX;Active;0;3
+BP0025;Sensors/ Detectors;01-1603-0603-003;Spo2 Finger Sensor, 8744;515c;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;10;11,5;NOVAMETRIX;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-0601-002;Reusable Oxysnap Finger Sensor;Cosmo 7100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;1520,3;1748,35;NOVAMETRIX;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-0101-001;Spo2 Adult Finger Tranducer;78834;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;350;402,5;Hewlett Packard;Active;0;3
+BP0025;Sensors/ Detectors;01-1601-0105-002;Pead Spo 2 Sensor;Virdia Series 50a;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;2;450;517,5;Hewlett Packard;Active;0;0
+BP0025;Sensors/ Detectors;01-1601-0106-001;SPO2 Finger Sensor Adult;M2601a;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;900;1035;Hewlett Packard;Active;0;0
+BP0001;Batteries/ UPS;01-1609-0301-001;Rechargeable Battery 12V 1.2Ah;6201;Unit;Just In Time;Centralized;;Biomedical;No;0;10;80;92;BAXTER;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1909-0101-002;Upper Casing,Clamp&Sheet;5100;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;671;771,65;TOP;Active;0;0
+BP0022;Power Supply Unit (PCB or Module)/ Transfomer;01-1909-0101-003;Power Supply Regulator;5100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;250;287,5;TOP;Active;0;0
+BP0002;Blankets/ Mattresses;01-1810-0101-002;RIPPLE MATTRESS INDIVIDUAL CELL;Alphabed;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;30;560;644;HUNTLEIGH;Active;0;0
+BP0007;Diaphragms/ Pumps;01-1803-0101-003;Diapharm;Alphabed;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;100;205;235,75;HUNTLEIGH;Active;0;14
+BP0011;Equipment Specific Parts;01-1803-0101-004;Silencer Bag Assy;Alphabed;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;100;75;86,25;HUNTLEIGH;Active;0;7
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-2202-1901-001;5K PREVENTIVE MAINTENANCE KIT,VELA;Avea;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;6;1305;1500,75;Viasys Vela;Active;0;0
+BP0025;Sensors/ Detectors;01-1603-1604-001;Finger Probe Adult 1.5Ft/Adult Reuble Oximeter Sensor;2100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;600;690;DOLPHIN;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-1604-002;Extension Cable 8Ft(2.4M);2100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;5;570;655,5;DOLPHIN;Active;0;0
+BP0001;Batteries/ UPS;01-1603-2101-001;Rechargeable Battery;Paspot Sl;Unit;Just In Time;Centralized;;Biomedical;No;0;5;260;299;DATASCOPE;Active;0;0
+BP0001;Batteries/ UPS;01-0203-0601-002;Battery;Accutor Plus;Unit;Just In Time;Centralized;;Biomedical;No;0;10;300;345;DATASCOPE;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1604-1601-001;PHILIPS Spo2 Sensor Adapter Cable M1940A;M1205a;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;5;328;377,2;VIRDIA;Active;0;2
+BP0001;Batteries/ UPS;01-1609-0102-001;Rechargeable Battery 6V 12Ah;Pc 2tx;Unit;Just In Time;Centralized;;Biomedical;No;0;40;80;92;GRASEBY;Active;0;12
+BP0003;Bulbs/ Lamps;01-1620-0100-001;PHOTHOTHERAPY LAMP BULB ULTRAVIOLET UV-AL 100W/13;Spectra 311/350;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;100;290;333,5;Daavlin;Active;0;0
+BP0003;Bulbs/ Lamps;01-1620-0100-002;PHOTHOTHERAPY LAMP BULB ULTRAVIOLET UV-B TL 100W/12;Spectra 311/350;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;70;350;402,5;Daavlin;Active;0;0
+BP0026;Solenoids/ Valves/ Gauges;01-1803-0102-001;RP VALVE BODY ASSEMBLY;Alphabed Plus;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;80;92;HUNTLEIGH;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1803-1201-001;Handle Bracket Set;1010;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;175;201,25;AEROCARE;Active;0;0
+BP0011;Equipment Specific Parts;01-1803-1201-002;Compressor;1010;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;600;690;AEROCARE;Active;0;0
+BP0011;Equipment Specific Parts;01-1803-1401-001;Air Reservoir;App 2000;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;55;63,25;Bantex;Active;0;0
+BP0007;Diaphragms/ Pumps;01-1803-1401-002;Pumping Set;App 2000;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;63,6;73,14;Bantex;Active;0;0
+BP0013;Heater Elements;01-1806-0101-001;Element Heating;Chamion;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;340;391;Haraeus;Active;0;1
+BP0011;Equipment Specific Parts;01-1902-0202-001;Sl 6V 20W Toeimeter;Lm770;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;288;331,2;NIDEK;Active;0;0
+BP0003;Bulbs/ Lamps;01-1902-0401-001;Bulb 12 V 30 W;Ns-Iv;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;8;24;27,6;Nikon;Active;0;5
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0901-002;Patient Extension Cable 8';2000;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;580;667;IVY;Active;0;4
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-1302-0101-002;Pcb,Display;Myomed 432;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;100;115;JH-ENRAF;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-1302-0101-003;Pcb,Main;Myomed 432;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;38;43,7;JH-ENRAF;Active;0;0
+BP0011;Equipment Specific Parts;01-1401-0102-001;PARI Automizer Upper Section;Inhalierboy;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;180;207;PARI;Active;0;1
+BP0011;Equipment Specific Parts;01-1401-0102-003;Nozzle Complete;Inhalierboy;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;280;322;PARI;Active;0;0
+BP0006;Cuffs;01-0203-0501-005;Cuff Single Tube Child;Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;150;30;34,5;Common;Active;0;12
+BP0026;Solenoids/ Valves/ Gauges;01-0804-0101-001;Terumo Vacuum Valve;Acs152;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;1090;1253,5;TERUMO;Active;0;0
+BP0027;Switchs/ Knobs/Buttons;01-0203-0301-010;Sheet Switch COLIN BP8800;Bp8800;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;30;450;517,5;COLIN;Active;0;5
+BP0001;Batteries/ UPS;01-2400-0101-001;Battery 7.2V;Adaptor;Unit;Just In Time;Centralized;;Biomedical;No;0;5;80;92;Seca;Active;0;0
+BP0001;Batteries/ UPS;01-0903-0104-010;IP BATTERY 34508210;Common;Unit;Just In Time;Centralized;;Biomedical;No;0;7;80;92;Common;Active;0;0
+BP0003;Bulbs/ Lamps;01-1504-0101-004;BULB KEELER OPTHALMOSCOPE BULB 2.8V;Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;13;105;120,75;Common;Active;0;5
+BP0014;Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes;01-0903-0202-004;Tube Pressure C/W Rubber;Common;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;145;166,75;Common;Active;0;12
+BP0001;Batteries/ UPS;01-0203-0902-003;Battery 6V;Pm 600;Unit;Just In Time;Centralized;;Biomedical;No;0;1;80;92;Mindray;Active;0;0
+BP0001;Batteries/ UPS;01-0203-0902-006;BATTERY MINDRAY PM600 LC-R061R3P;Pm 600;Unit;Just In Time;Centralized;;Biomedical;No;0;60;75;86,25;Mindray;Active;0;14
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-0303-0301-001;Case Bottom;M13151a;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;328;377,2;AGILENT;Active;0;0
+BP0028;Transducers/ Probes;01-0306-0203-002;Probe Aga;747;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;2132;2451,8;HITACHI;Active;0;0
+BP0022;Power Supply Unit (PCB or Module)/ Transfomer;01-0401-0101-006;Power Convertion Board;Lp9b;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;5500;6325;PHYSIO CONTROL;Active;0;0
+BP0001;Batteries/ UPS;01-0401-0402-001;Rechargeable Battery;Cardio Hid;Unit;Just In Time;Centralized;;Biomedical;No;0;1;1100;1265;S&W/Innomed;Active;0;0
+BP0011;Equipment Specific Parts;01-2203-0101-003;Manometer With Pointer;Iv100b;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;498,5;573,28;Sechrist;Active;0;0
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-0101-0101-001;Ppm Kit;Elite 615;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;2850;3277,5;ULCO;Active;0;0
+BP0028;Transducers/ Probes;01-0101-0101-034;O2 STAINLESS STEEL OXY PROBE REMOTE O2;Elite 615;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;50;65;74,75;ULCO;Active;0;10
+BP0010;Electronic Components;01-0401-0502-006;Patient Relay;Codemaster;Unit;Just In Time;Centralized;;Biomedical;No;0;3;300;345;HEWLETT PACKARD;Active;0;0
+BP0024;"Printed Circuit Boards (PCB; Other than Power Supply)";01-0503-0302-013;Mother Board Unit;106;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;10;38;43,7;SUZUKEN;Active;0;0
+BP0001;Batteries/ UPS;01-0503-0801-001;Battery 9.6V 1100mAH w/out connector;Fx2111;Unit;Just In Time;Centralized;;Biomedical;No;0;10;80;92;Fukuda;Active;0;0
+BP0001;Batteries/ UPS;01-0609-0000-001;Battery for Entral feeding;Kangaroo 924;Unit;Just In Time;Centralized;;Biomedical;No;0;60;80;92;KANGAROO;Active;0;8
+BP0010;Electronic Components;01-0802-0101-025;Relay Solid State;Sps450/550;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;40;46;BAXTER;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-0802-0101-038;Patient Cable;Sps450/550;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;4;276,1;317,52;BAXTER;Active;0;0
+BP0005;Casing/ Covers/ Brackets/ Latches/ Part Holders;01-1601-0402-005;DATASCOPE BEZEL FRONT HIGHT ASSEMBLY 0380-00-0359-04;Accutor Plus;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;3;388;446,2;Datascope;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1601-0301-007;Spo2 Adaptor Cable;Athena Nt+;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;6;1800;2070;S&W;Active;0;0
+BP0012;Filters;01-1907-0201-007;AMEDA, 7 Shut Off Filter;Com 80221;Unit;Just In Time;Centralized;;Biomedical;No;0;59;7;8,05;AMEDA, Egnell;Active;0;45
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0601-003;Extension Cable;Cosmo 7100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;670;770,5;NOVAMETRIX;Active;0;0
+BP0004;Cables/ Lead Wires (or any part of it);01-1603-0602-003;Connector Cable (Db-9/Oxysnap);Cosmo 7100;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;350;402,5;NOVAMETRIX;Active;0;0
+BP0023;PPM/ Service/Maintenance/ Repair Kits;01-2203-0101-006;SECHRIST Ppm Service Kit;Iv100b;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;10;11,5;SECHRIST;Active;0;1
+BP0017;Membranes;01-0903-0205-001;Membrane Sheet;Top 5200;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;70;80,5;TOP;Active;0;0
+BP0003;Bulbs/ Lamps;01-1301-0201-001;Bulb OSRAM 5001BA15s 6V 10W;Leitz;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;10;24;27,6;LEITZ;Active;0;7
+BP0003;Bulbs/ Lamps;01-1505-0201-001;Bulb 24V 40W;Ha58s;Unit;Just In Time;Centralized;;Biomedical;No;0;20;77;88,55;DAI-ICHE;Active;0;0
+BP0003;Bulbs/ Lamps;01-1505-0701-001;Bulb Halogen 50W 24V;Ax 4;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;15;18;20,7;ANGENIEUX/OSRAM;Active;0;0
+BP0003;Bulbs/ Lamps;01-1505-0303-001;Bulb 24v 100w;X10df Duo V Fs;Unit;Fast Moving Item;Company Site Office;;Biomedical;No;1;20;50;57,5;Angineuze;Active;0;0
+BP0011;Equipment Specific Parts;01-1601-0103-009;Ic;78353a;Unit;Just In Time;Centralized;;Biomedical;No;0;10;182;209,3;HEWLETT PACKARD;Active;0;1
+BP0011;Equipment Specific Parts;01-0901-0303-018;AIR SHIELD Grommet Access;C300;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;7;120;138;Air Shields;Active;0;7
+BP0011;Equipment Specific Parts;01-0901-0304-009;AIR SHIELD Iris Sleeve (Pack Of 4);C400 & 450;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;106;18;20,7;Air Shields;Active;0;18
+BP0011;Equipment Specific Parts;01-1303-0101-001;Htc Protection Sheild For Hps 101;Chemopharm;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;18;20,7;Chemopharm;Active;0;0
+BP0027;Switchs/ Knobs/Buttons;01-1303-0101-002;MEDELA DOUBLE ROCKER SWITCH MADELA;Chemopharm;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;1;70;80,5;Chemopharm;Active;0;1
+BP0016;Mechanical Components;01-1303-0202-001;MEDELA SQUARE NUT MADELA;Mls 1200;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;2;18;20,7;Milestone;Active;0;1
+BP0020;Paddles/ Wheels/ Castors/Brakes;01-1402-0301-001;CASTOR WHEEL WITH SCREW HEAD 2;Bp8000c;Unit;One Off;Others;Vendor - By Purchase Order;Biomedical;No;0;50;3,5;4,03;Press Mate;Active;0;0
+BP0028;Transducers/ Probes;01-0303-0201-003;CARDIOTOCOGRAPH 1.5Mhz Ultrasound Transducer (Yellow);Sonicaid;Unit;Just In Time;Centralized;;Biomedical;No;0;5;2398;2757,7;Oxford Instrument;Active;0;2

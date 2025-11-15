@@ -1,0 +1,5 @@
+Base de datos #1
+Esta base de datos contiene mediciones biomédicas de la voz de pacientes con enfermedad de Parkinson, las cuales se van a utilizar para predecir puntajes de UPDRS (Escala de valoración unificada del Parkinson)
+
+Base de datos #2
+Contiene datos para la gestión de inventario de repuestos

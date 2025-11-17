@@ -1,0 +1,31 @@
+DESCRIPCION DE LAS BASES DE DATOS
+En este proyecto se utilizan dos bases de datos diferentes, cada una enfocada en un tipo de análisis distinto. A continuación se presenta una descripción resumida de cada una, incluyendo el título, contenido, número de filas y columnas, y la descripción de cada variable.
+
+Base de datos 2: StudentsPerformance
+Este dataset corresponde al rendimiento académico de 1000 estudiantes en tres áreas evaluadas: matemáticas, lectura y escritura. Cada fila representa un estudiante único e incluye información demográfica y socioeconómica junto con sus calificaciones. El objetivo es analizar cómo los factores socioeconómicos influyen en el desempeño académico.
+
+Dimensión:  El archivo contiene 1000 filas y 8 columnas antes del proceso de depuración. Tras la limpieza, se eliminó 1 columna no alineada con el enfoque y se agregó 1 columna derivada, resultando en 8 columnas finales para el análisis.
+
+Descripción de las columnas
+
+Columnas utilizadas en el análisis (7 de las 8 iniciales + 1 nueva)
+ender: Género del estudiante (female/male). Variable demográfica fundamental para analizar brechas de género en el rendimiento académico por áreas del conocimiento.
+
+race/ethnicity: Grupo étnico al que pertenece el estudiante (Group A-E, anonimizado). Variable socioeconómica crítica para análisis de equidad educativa e identificación de desigualdades sistémicas.
+
+parental level of education: Nivel educativo más alto alcanzado por los padres. Predictor más fuerte del rendimiento académico según la literatura. Es proxy de capital cultural familiar, recursos educativos y nivel socioeconómico.
+
+lunch: Tipo de almuerzo que recibe el estudiante (standard/free/reduced). "Free/reduced" indica elegibilidad para programa de asistencia y es proxy confiable de nivel socioeconómico familiar.
+
+math score: Calificación en matemáticas (0-100). Variable dependiente principal que permite analizar brechas de género y sensibilidad a recursos educativos.
+
+reading score: Calificación en comprensión lectora (0-100). Variable dependiente que representa habilidades verbales, generalmente muestra patrones diferentes a matemáticas.
+
+writing score: Calificación en escritura (0-100). Variable dependiente que completa la triada de habilidades académicas y permite análisis multidimensional del rendimiento.
+
+average_score (nueva): Promedio de las tres materias. Métrica agregada creada durante la limpieza que resume el desempeño académico global y facilita comparaciones entre estudiantes y grupos.
+
+Columnas descartadas durante la limpieza (1 de las 8 iniciales)
+Esta columna fue eliminada porque no se alinea con el enfoque de factores socioeconómicos del proyecto. El dataset original NO tenía valores nulos.
+
+test preparation course: Indica si el estudiante completó un curso de preparación para el examen. Se descarta porque no es un factor socioeconómico estructural, sino una intervención educativa opcional. Mezclar factores estructurales (género, etnia, educación de padres) con intervenciones confunde el análisis causal. El acceso al curso puede estar correlacionado con nivel socioeconómico, introduciendo multicolinealidad. Esta variable es mejor analizada en un enfoque diferente sobre efectividad de programas educativos, no en análisis de desigualdades estructurales.

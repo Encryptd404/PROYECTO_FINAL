@@ -1,0 +1,61 @@
+DESCRIPCION DE LAS BASES DE DATOS
+En este proyecto se utilizan dos bases de datos diferentes, cada una enfocada en un tipo de análisis distinto. A continuación se presenta una descripción resumida de cada una, incluyendo el título, contenido, número de filas y columnas, y la descripción de cada variable.
+
+Base de datos 1: Spare-Parts-Inventories
+Este dataset corresponde al inventario de repuestos biomédicos utilizados para mantenimiento, reparación y operación de diferentes equipos clínicos. Cada fila representa un repuesto específico dentro del inventario, e incluye información como su categoría, descripción técnica, niveles de stock, umbrales mínimos y máximos y su tipo de rotación.
+
+Dimensiones: El archivo contiene 538 filas y 19 columnas antes del proceso de depuración. Tras la limpieza, se seleccionaron únicamente las columnas relevantes para el análisis de inventario, enfocándose en aquellas que aportan valor en visualizaciones y toma de decisiones sobre niveles de stock.
+
+Descripción de las columnas
+
+Columnas utilizadas en el análisis(8 de las 19 iniciales)
+Item Code: Código identificador de la categoría del repuesto. Sirve para agrupar y diferenciar tipos de items en el inventario.
+
+Item Description: Descripción general del tipo de repuesto, como motores, sensores, lámparas o cables. Define las familias principales de productos.
+
+Part Description: Descripción detallada del repuesto específico. Proporciona el contexto exacto para identificar cada pieza.
+
+Spare Part Type: Clasificación según la rotación del inventario: Fast Moving, Just In Time o One Off. Indica la estrategia de reposición.
+
+Min Nos: Cantidad mínima que debe haber en el inventario antes de requerir reposición. Representa el stock de seguridad.
+
+Max Nos: Cantidad máxima recomendada para evitar sobreinventario. Define el límite superior del rango óptimo.
+
+Current Stock Level: Nivel de stock actual disponible. Es la métrica central para evaluar disponibilidad y tomar decisiones.
+
+Status: Estado del repuesto (generalmente Active). Permite filtrar elementos vigentes del inventario.
+
+Columnas descartadas durante la limpieza(11 de las 19 iniciales)
+Estas columnas estaban presentes en el dataset original, pero fueron eliminadas porque no aportan valor al análisis, tienen datos incompletos o están fuera del enfoque del proyecto. Además de que con esto se eliminan las columnas con los valores nulos: 
+VALORES NULOS 
+Model                     42
+Specify                  438
+Brand                     77
+Expiry Age (In Month)    105
+
+Part No.: Código interno del fabricante para el repuesto. Se descarta porque no influye en el análisis de niveles de stock y no aporta información adicional útil para visualizaciones.
+
+Model: Modelo del equipo asociado al repuesto. Se elimina porque la mayoría de valores son inconsistentes o no relevantes para estudiar inventarios a nivel general.
+
+Unit Of Measurement: Unidad de medida (piezas, metros, litros, etc.). No afecta directamente el análisis de máximos, mínimos o stock disponible, y presenta baja variabilidad.
+
+Location: Ubicación física del repuesto dentro del almacén. Se descarta porque no es parte del objetivo del proyecto (no se analizará logística interna o distribución espacial).
+
+Specify: Campo con especificaciones adicionales del repuesto. Contiene muchos valores vacíos o poco estandarizados, lo que dificulta su uso para análisis cuantitativos o gráficos.
+
+Part Category: Categoría o clasificación interna del repuesto. Se descarta porque las categorías relevantes ya están cubiertas por Item Description y Spare Part Type.
+
+Is Expiry date Required: Indica si el repuesto requiere fecha de expiración. No se analiza caducidad en este proyecto, por lo que queda fuera del alcance.
+
+Minimum Price Per Nos (RM): Precio mínimo por unidad en moneda local. El análisis no incluye costos ni proyecciones económicas, por lo que no es necesario.
+
+Maximum Price Per Nos (RM): Precio máximo por unidad. Igual que la columna anterior, se excluye porque el proyecto se centra en stock, no en precios.
+
+Brand: Marca del repuesto. Aunque puede ser útil para otros proyectos, no aporta información significativa para análisis de inventario a nivel agregado.
+
+Expiry Age (In Month): Vida útil del repuesto en meses. No se analiza obsolescencia ni caducidad, por lo tanto esta columna no es relevante para el enfoque del proyecto.
+
+
+
+
+

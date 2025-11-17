@@ -1,0 +1,539 @@
+Item Code,Item Description,Part Description,Spare Part Type,Min Nos,Max Nos,Status,Current Stock Level
+BP0018,Motors/ Micromotors/ Carbon brushes,Flow motor,Fast Moving Item,1,3,Active,0
+BP0025,Sensors/ Detectors,O2 Sensor OOM202,One Off,1,5,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Door 22MM Bubble C.Holder 4008SV10,Just In Time,1,3,Active,3
+BP0001,Batteries/ UPS,Battery Pack Fot Tec 7731K,Just In Time,0,10,Active,2
+BP0025,Sensors/ Detectors,DATEX OHMEDA Spo2 FINGER SENSOR Trusignal (TS-F-D),Fast Moving Item,1,20,Active,10
+BP0025,Sensors/ Detectors,FLOW TRANDUCER GE,Fast Moving Item,5,10,Active,1
+BP0003,Bulbs/ Lamps,Bulb 12v 30w,One Off,1,16,Active,24
+BP0001,Batteries/ UPS,Battery AA (Alkaline),Fast Moving Item,200,800,Active,595
+BP0011,Equipment Specific Parts,Label Remover,One Off,12,24,Active,0
+BP0003,Bulbs/ Lamps,Bulb 12v 100w (64623 HLX),One Off,5,10,Active,10
+BP0027,Switchs/ Knobs/Buttons,Read Switch,Just In Time,5,10,Active,0
+BP0011,Equipment Specific Parts,STP Foam Cleaner,One Off,12,24,Active,17
+BP0011,Equipment Specific Parts,Ambersil - Label Remover,Just In Time,12,24,Active,13
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Swive Air Hose,One Off,0,1,Active,0
+BP0018,Motors/ Micromotors/ Carbon brushes,Fresenius 4008S Motor Assy Degassing Complete,Just In Time,1,5,Active,1
+BP0003,Bulbs/ Lamps,PROJECTION LAMP 24V 250W OSRAM,One Off,5,15,Active,18
+BP0003,Bulbs/ Lamps,Bulb 12V 50W,One Off,5,10,Active,0
+BP0027,Switchs/ Knobs/Buttons,Fresenius 4008S Float Switch Complete,One Off,1,3,Active,0
+BP0026,Solenoids/ Valves/ Gauges,Fresenius 4008S Reliief valve completed,One Off,1,5,Active,0
+BP0025,Sensors/ Detectors,SPO2 REUSABLE SENSOR PEDIATRIC LNCS DCIP,One Off,2,5,Active,4
+BP0021,Power Cords/ Adaptors (or any part of it),COMMON ITEM POWER CORD 3 MTR,Fast Moving Item,1,50,Active,21
+BP0011,Equipment Specific Parts,EQUIPMENT SPECIFIC PARTS (IN HOUSE),Fast Moving Item,1,50,Active,5
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Male & Female Connector,Fast Moving Item,10,50,Active,46
+BP0006,Cuffs,X-Large Cuff Adult 1 TB,Fast Moving Item,10,50,Active,23
+BP0012,Filters,Diacap Ultra DF - Online Filter,One Off,10,20,Active,10
+BP0003,Bulbs/ Lamps,Lamp for Laryngoscope,Just In Time,3,10,Active,5
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 700Mah,Just In Time,5,20,Active,11
+BP0004,Cables/ Lead Wires (or any part of it),NIHON KOHDEN CHEST ELECTROLUDE ADULT COMPLEX,One Off,0,100,Active,16
+BP0003,Bulbs/ Lamps,BULB 6V 20W,Fast Moving Item,1,10,Active,1
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 03100,Fast Moving Item,1,30,Active,2
+BP0003,Bulbs/ Lamps,3.5v Streak Lamp 08200,Fast Moving Item,1,15,Active,9
+BP0001,Batteries/ UPS,BATTERY SERVO-I MARQUET,Just In Time,0,20,Active,1
+BP0001,Batteries/ UPS,BATTERY LITHIUM ION,Just In Time,0,1,Active,4
+BP0004,Cables/ Lead Wires (or any part of it),Transpac IV Cable HP PHILIPS,Just In Time,1,100,Active,4
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Adult Finger Clip Sensor M1196A,Just In Time,2,5,Active,0
+BP0001,Batteries/ UPS,Battery 6v 2200 mah,One Off,1,30,Active,0
+BP0003,Bulbs/ Lamps,300 Watts Xenon Lamp,Just In Time,2,5,Active,0
+BP0006,Cuffs,CUFF S/H ADULT (PHILIPS),One Off,0,20,Active,13
+BP0025,Sensors/ Detectors,Oxygen Sensor,Fast Moving Item,1,9,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),POWER CORD 5 METER 3 PIN,Just In Time,0,30,Active,1
+BP0011,Equipment Specific Parts,Power Board,One Off,5,10,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),Cable 5 leadset grabber M1971A,Fast Moving Item,5,10,Active,1
+BP0011,Equipment Specific Parts,MAINTAINANCE SPARE PART (IN HOUSE),One Off,1,50,Active,3
+BP0006,Cuffs,Cuff Connector Female,Just In Time,5,30,Active,3
+BP0012,Filters,Cotton Filter-20 Inch,Just In Time,5,10,Active,20
+BP0004,Cables/ Lead Wires (or any part of it),"MINDRAY SPO2 Extension Cable, Sensor 2.4m (0010-20-42594)",Fast Moving Item,1,10,Active,23
+BP0025,Sensors/ Detectors,SIEMENS SERVO 9000 OXYGEN SENSOR OOM202,Fast Moving Item,1,15,Active,0
+BP0010,Electronic Components,PETTY CASH,One Off,1,36,Active,57
+BP0006,Cuffs,Cuff Connector Male,Just In Time,5,30,Active,11
+BP0001,Batteries/ UPS,Rechargeable Battery,Just In Time,2,3,Active,0
+BP0026,Solenoids/ Valves/ Gauges,Vent. Exhalation Valve Assy,Just In Time,1,3,Active,0
+BP0026,Solenoids/ Valves/ Gauges,VALVE SPRING SET BIC-4008/S V10,One Off,5,15,Active,8
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,"Battery Cover Assembly ,TOP 3300",Just In Time,3,6,Active,4
+BP0025,Sensors/ Detectors,Oxygen Sensor,Fast Moving Item,1,3,Active,0
+BP0025,Sensors/ Detectors,Drop Sensor TOP 3300 (89T) T6330522,Fast Moving Item,2,5,Active,0
+BP0011,Equipment Specific Parts,900MR858 Electrical Adaptor,Just In Time,3,10,Active,2
+BP0026,Solenoids/ Valves/ Gauges,Solenoid Valve (Chamber),One Off,1,2,Active,8
+BP0004,Cables/ Lead Wires (or any part of it),ECG 3 LEAD TRUNK CABLE,One Off,5,10,Active,10
+BP0025,Sensors/ Detectors,ANASTHESIA,Fast Moving Item,5,10,Active,13
+BP0004,Cables/ Lead Wires (or any part of it),Cable 5 lead ECG trunk M1668A,Fast Moving Item,5,10,Active,1
+BP0025,Sensors/ Detectors,Oxygen Sensor (OOM102-1),Just In Time,3,10,Active,0
+BP0001,Batteries/ UPS,"Rechargeable Battery 11.1V, Mindray iMEC8",One Off,2,5,Active,2
+BP0012,Filters,Diasafe Plus Filter,Just In Time,1,60,Active,0
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Fresenius 4008S PPM Kit Yearly,Just In Time,1,35,Active,0
+BP0003,Bulbs/ Lamps,"Bulb 24 V 150 W, OSRAM",Fast Moving Item,6,20,Active,0
+BP0006,Cuffs,Cuff Cylindrical 34 Ats,One Off,1,2,Active,0
+BP0025,Sensors/ Detectors,SIPAP MACHINE OXYGEN SENSOR FABIAN OOM204,Fast Moving Item,1,12,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),SCHILLER 10 LEAD ECG CABLE BANANA TYPE,Just In Time,1,30,Active,0
+BP0003,Bulbs/ Lamps,Bulb 12V 100W (64627),One Off,3,10,Active,9
+BP0011,Equipment Specific Parts,MMS Module,Fast Moving Item,1,2,Active,3
+BP0001,Batteries/ UPS,BATTERY B. BRAUN INFUSOMAT,One Off,3,5,Active,0
+BP0025,Sensors/ Detectors,Spo2 Sensor Adult Original DS100A,Fast Moving Item,8,20,Active,6
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),MODULE MONTARA AM-12,Just In Time,2,5,Active,0
+BP0028,Transducers/ Probes,Ultrasound Tranducer,Just In Time,0,1,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),ECG TRUNK CABLE PROPAQ LT 3 LEAD,One Off,3,5,Active,4
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE TRUSIGNAL GE WITH CONNECTOR,One Off,2,10,Active,3
+BP0026,Solenoids/ Valves/ Gauges,RELEASE VALVE DIAPHRAGM,One Off,3,15,Active,15
+BP0025,Sensors/ Detectors,Oxygen Cell OOM102,Fast Moving Item,5,10,Active,0
+BP0003,Bulbs/ Lamps,LED BULB OPHTHALMOSCOPE,Fast Moving Item,2,5,Active,4
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,YELLOW BELT,Fast Moving Item,1,5,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS 5 LEAD TRUNK CABLE ECG M1530A,Fast Moving Item,5,15,Active,4
+BP0025,Sensors/ Detectors,Spo2 finger sensor M1191BL,Fast Moving Item,10,30,Active,0
+BP0003,Bulbs/ Lamps,Bulb Laryngoscope Adult Penlon 55091,Fast Moving Item,1,25,Active,17
+BP0011,Equipment Specific Parts,KEYPAD ORALIX,Just In Time,5,10,Active,1
+BP0028,Transducers/ Probes,2Mhz Tranducer (Blue),Just In Time,0,5,Active,1
+BP0011,Equipment Specific Parts,Water Trap,One Off,0,10,Active,10
+BP0002,Blankets/ Mattresses,HUNTLEGLY RIPPLE MATTRESS,Fast Moving Item,1,20,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 FINGER SENSOR NIHON KOHDEN,Just In Time,0,10,Active,7
+BP0003,Bulbs/ Lamps,BULB OSRAM XBOR 300W/60C,One Off,1,2,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),ECG USB Cable,Just In Time,0,5,Active,2
+BP0011,Equipment Specific Parts,LED BULB 3.5V Opthalmoscope,Just In Time,5,10,Active,1
+BP0025,Sensors/ Detectors,"Spo2 Finger Sensor Adult, Trusat",Just In Time,0,5,Active,1
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,MATRESS SIDE 9MM CONNECTER,Just In Time,0,25,Active,3
+BP0013,Heater Elements,"Heater 230-240Vac, 50/60Hz",One Off,0,15,Active,0
+BP0001,Batteries/ UPS,BATTERY CR-1/3N,One Off,0,20,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Extension Cable PN:0010-20-42710 or 562A,Just In Time,1,15,Active,0
+BP0028,Transducers/ Probes,CARDIOTOCOGRAPH Toco Ultrasound Tranducer (Pink),Just In Time,0,5,Active,3
+BP0025,Sensors/ Detectors,OXYGEN SENSOR,Fast Moving Item,1,5,Active,12
+BP0011,Equipment Specific Parts,EXPIRATORY CASSETE,Just In Time,2,5,Active,0
+BP0003,Bulbs/ Lamps,SOCKET BULB BLUE 130 MAQUET OT LIGHT,One Off,0,10,Active,7
+BP0025,Sensors/ Detectors,DATEX OHMEDA (AESTIVA 5) 02 CELL 6050-0004-110,Fast Moving Item,1,15,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),NIHON KOHDEN Fast Clip Ecg Electrode,Fast Moving Item,1,50,Active,6
+BP0003,Bulbs/ Lamps,BULB MAQUET BLUE 22.8V 90W,Just In Time,10,50,Active,0
+BP0025,Sensors/ Detectors,SPO finger sensor mindray adult 512F,Just In Time,5,15,Active,0
+BP0011,Equipment Specific Parts,"Drop sensor,BRAND:ORALIX, MODEL:OR-1500H",Just In Time,1,10,Active,8
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE RC-12,Fast Moving Item,1,15,Active,0
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,CHARGERMODULE ASSY,One Off,1,2,Active,0
+BP0007,Diaphragms/ Pumps,Ultrafiltration Pump,One Off,0,2,Active,0
+BP0006,Cuffs,Cuff Cylindrical 34 Ats,One Off,0,5,Active,0
+BP0006,Cuffs,Cuff Cylindrical 24 Ats,One Off,0,5,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),6 lead wire for telemetri transmitter for ge apex PRO part no:421930-001,Just In Time,0,20,Active,3
+BP0025,Sensors/ Detectors,Temperature Probe 900MR860,Fast Moving Item,1,5,Active,4
+BP0001,Batteries/ UPS,Rechargeable Battery (TE-112),One Off,0,5,Active,4
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable PC-8,Just In Time,0,10,Active,5
+BP0001,Batteries/ UPS,Battery LI-ion 14.8V 6.6Ah 98Wh (for Heartstart XL+),Just In Time,0,2,Active,0
+BP0012,Filters,Black Carbon Filter,One Off,0,10,Active,1
+BP0012,Filters,Cotton Filter-10 Inch,One Off,0,10,Active,9
+BP0011,Equipment Specific Parts,PLUNGER CLAMP ASSY,One Off,0,20,Active,2
+BP0025,Sensors/ Detectors,Extension finger sensor Mindray PM-60 DB9,Just In Time,1,5,Active,2
+BP0001,Batteries/ UPS,BATTERY MINDRAY DUO,Just In Time,1,15,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Hose heater wire 900mr751,One Off,0,5,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Wire,Just In Time,0,10,Active,5
+BP0001,Batteries/ UPS,Battery Smart Pack,One Off,0,5,Active,15
+BP0020,Paddles/ Wheels/ Castors/Brakes,External Paddle for TEC-7621K,One Off,0,10,Active,3
+BP0025,Sensors/ Detectors,DROP SENSOR TERUMO TE-112,Fast Moving Item,3,10,Active,4
+BP0020,Paddles/ Wheels/ Castors/Brakes,CASTOR,One Off,0,60,Active,0
+BP0001,Batteries/ UPS,Sypu Battery 12V 700Mah(3.6V-600Mah),Just In Time,5,40,Active,14
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Nellcor Interm Cable,Just In Time,0,5,Active,1
+BP0025,Sensors/ Detectors,Skin Temp Probe (CM-6450Y),Fast Moving Item,1,5,Active,2
+BP0028,Transducers/ Probes,Ultrasound Tranducer,One Off,0,5,Active,2
+BP0003,Bulbs/ Lamps,Bulb 15v 150W,One Off,0,15,Active,1
+BP0026,Solenoids/ Valves/ Gauges,BP SET MANUAL Rubber Ball with Control Valve,Fast Moving Item,1,100,Active,6
+BP0025,Sensors/ Detectors,Exhalation Flow Sensor MT for E360,Fast Moving Item,1,20,Active,2
+BP0013,Heater Elements,Heater Wire adaptor dual 900MR805 humidifier MR850,Fast Moving Item,1,5,Active,1
+BP0012,Filters,FILTER ATOM,Just In Time,10,30,Active,0
+BP0010,Electronic Components,FUSE,Fast Moving Item,10,50,Active,498
+BP0004,Cables/ Lead Wires (or any part of it),ECG 10 LEAD MORTARA,Fast Moving Item,1,2,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),5-Lead Trunk Cable,Just In Time,0,5,Active,0
+BP0025,Sensors/ Detectors,Oxygen Sensor HAMILTON,Fast Moving Item,1,5,Active,6
+BP0011,Equipment Specific Parts,User Interface Assembly,One Off,0,15,Active,2
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Swivel Air Hose With sensor,One Off,0,15,Active,4
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,GREEN BELT,Fast Moving Item,1,15,Active,3
+BP0001,Batteries/ UPS,BATTERY DOPPLER NICOLET,One Off,0,15,Active,15
+BP0012,Filters,Carbon Cartrid filter 10,Just In Time,0,20,Active,2
+BP0012,Filters,Cartridge filter imicon 10,Just In Time,5,20,Active,18
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Cover Syringe pump,One Off,0,5,Active,5
+BP0025,Sensors/ Detectors,Spo2 Extension sensor,Just In Time,0,15,Active,10
+BP0003,Bulbs/ Lamps,Halogen Bulb 6V 30W (Philips),Just In Time,5,10,Active,3
+BP0001,Batteries/ UPS,Rechargeable Batttery,Just In Time,5,10,Active,1
+BP0004,Cables/ Lead Wires (or any part of it),FLOW SENSOR CONECTOR CABLE 8416600,Just In Time,2,5,Active,0
+BP0003,Bulbs/ Lamps,HALOGEN Bulb Derung 24v 75w,Just In Time,5,20,Active,11
+BP0011,Equipment Specific Parts,Battery Oralix,Fast Moving Item,5,10,Active,14
+BP0011,Equipment Specific Parts,Bulb mercury short ARC HBO 100/2,Just In Time,0,30,Active,6
+BP0013,Heater Elements,900MR754 Heater Wire,One Off,0,5,Active,0
+BP0013,Heater Elements,Heater Wire Adaptor 900MR559,One Off,0,10,Active,10
+BP0011,Equipment Specific Parts,LAMB CARTRIDGE ASSY 6 SERIES )(608125-501),One Off,0,10,Active,0
+BP0001,Batteries/ UPS,Lithium ION Battery 3.6V(Red),Just In Time,1,5,Active,0
+BP0003,Bulbs/ Lamps,Halogen Lamp,Just In Time,2,5,Active,3
+BP0001,Batteries/ UPS,Battery Pack BP55,One Off,1,15,Active,11
+BP0008,Displays/ Backlights/ Panels,LCD MONITOR,Fast Moving Item,1,5,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),LEAD CABLE ECG,Just In Time,1,15,Active,8
+BP0004,Cables/ Lead Wires (or any part of it),NIBP INTERCONNECT CABLE,Just In Time,1,10,Active,13
+BP0001,Batteries/ UPS,Battery 9.6V 1.5Ah,One Off,1,15,Active,3
+BP0006,Cuffs,CUFF ADULT DURABLE,Just In Time,2,20,Active,4
+BP0013,Heater Elements,Heater Elements,Just In Time,1,100,Active,1
+BP0012,Filters,INLET FILTER (PACK OF 6 PCS),Fast Moving Item,1,20,Active,21
+BP0004,Cables/ Lead Wires (or any part of it),ECG 5 Lead,Fast Moving Item,1,2,Active,6
+BP0001,Batteries/ UPS,Rechargeable Battery (for Draeger Evita 4); Valve Regulated Lead Acid 12V 3.4Ah (LC-R123R4PG),One Off,4,20,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),3 LEAD ECG CABLE,Just In Time,1,10,Active,1
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 2.3Ah,Fast Moving Item,5,10,Active,12
+BP0013,Heater Elements,High Temperature Filament,Just In Time,10,20,Active,5
+BP0004,Cables/ Lead Wires (or any part of it),Battery Li-Ion 2.4ah/26.64 wh,Fast Moving Item,2,10,Active,0
+BP0011,Equipment Specific Parts,FISHER & PAYKEL ELECTRICAL ADAPTOR 900MR858,Fast Moving Item,5,100,Active,8
+BP0012,Filters,Cartridge filter big blue 20,Fast Moving Item,5,15,Active,9
+BP0001,Batteries/ UPS,Battery Pack 8.4V 8.0 Ah Ge Dash 2500,Just In Time,5,10,Active,3
+BP0025,Sensors/ Detectors,Durasensor Adult Finger Clip Sensor,Just In Time,5,10,Active,1
+BP0003,Bulbs/ Lamps,SLIT LAMP BULB TAPCON HALOGEN,Fast Moving Item,5,10,Active,12
+BP0012,Filters,Bacteria Filter 10,Just In Time,5,15,Active,11
+BP0012,Filters,Cartridge filter imicon 20,Just In Time,5,15,Active,0
+BP0025,Sensors/ Detectors,Temperature Probe 900MR869,Just In Time,5,10,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),10 Lead ECG Cable Kenz 108,Just In Time,5,15,Active,12
+BP0025,Sensors/ Detectors,FISHER&PAYKEL Temperature Probe 900MR560,Fast Moving Item,1,16,Active,10
+BP0025,Sensors/ Detectors,FISHER&PAYKEL Temperature Probe 900MR860 FOR 850,Fast Moving Item,1,20,Active,0
+BP0028,Transducers/ Probes,Fresenius 4008S TMP Transducer Complete,Fast Moving Item,1,5,Active,2
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Hose Red,Fast Moving Item,1,40,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Plunger Holder 20ml,One Off,0,2,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Rotor Board GE AMX4,One Off,0,2,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Fil KV Control Board GE AMX4,One Off,0,1,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),CPU Board GE AMX4,One Off,0,2,Active,1
+BP0001,Batteries/ UPS,Battery Upgrade Kit,Just In Time,0,10,Active,1
+BP0004,Cables/ Lead Wires (or any part of it),Patient Cable,Fast Moving Item,1,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),KENZ 106 10 LEAD ECG CABLE,Fast Moving Item,1,14,Active,7
+BP0028,Transducers/ Probes,Toco Tranducer,Just In Time,0,5,Active,3
+BP0028,Transducers/ Probes,TOCO Avalon FEM20 Philips,Just In Time,0,2,Active,0
+BP0021,Power Cords/ Adaptors (or any part of it),Plug Top 3 Pin 13amp,Fast Moving Item,10,300,Active,6
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Male Connector,Fast Moving Item,1,150,Active,3
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Female Connector,Fast Moving Item,1,150,Active,0
+BP0012,Filters,CLEMENT FILTER,Fast Moving Item,1,50,Active,9
+BP0012,Filters,MADELA Filter Bacterial,Just In Time,0,5,Active,4
+BP0003,Bulbs/ Lamps,"Bulb,12V/4.2A 50W",Fast Moving Item,1,15,Active,0
+BP0003,Bulbs/ Lamps,Bulb 6V4.5A,Fast Moving Item,1,15,Active,1
+BP0003,Bulbs/ Lamps,Bulb 6V 4.5 A,Fast Moving Item,1,20,Active,0
+BP0021,Power Cords/ Adaptors (or any part of it),Power Cord 1.8M,Fast Moving Item,1,150,Active,0
+BP0006,Cuffs,Infant Cuff 2 Tb,Fast Moving Item,1,25,Active,37
+BP0006,Cuffs,Infant Cuff 1 Tb,Fast Moving Item,1,120,Active,45
+BP0006,Cuffs,X-Large Cuff Adult 2TB,Fast Moving Item,1,100,Active,32
+BP0006,Cuffs,Cuff Large Adult 1 Tb,Fast Moving Item,1,30,Active,50
+BP0006,Cuffs,Cuff Adult 1 Tb,Fast Moving Item,10,300,Active,4
+BP0006,Cuffs,Cuff Adult Large 2 Tb,Fast Moving Item,1,50,Active,0
+BP0006,Cuffs,Cuff Adult 2 Tb,Fast Moving Item,20,500,Active,23
+BP0006,Cuffs,Cuff Child 2 Tb,Fast Moving Item,1,30,Active,36
+BP0008,Displays/ Backlights/ Panels,TOP 3300 FRONT PANEL ASSEMBLY (T6330516(5) ),One Off,0,1,Active,0
+BP0003,Bulbs/ Lamps,BULB SLIT LAMP 6V 4.5A W/CENTER HAAG STREIT BM900,Fast Moving Item,1,20,Active,0
+BP0021,Power Cords/ Adaptors (or any part of it),Power Adaptor,One Off,0,7,Active,0
+BP0021,Power Cords/ Adaptors (or any part of it),POWER DAPTOR HEM 907 OMRON,One Off,0,10,Active,2
+BP0025,Sensors/ Detectors,DRAGER BABYLOG 8000 OXYGEN CELL 6850645 (GOLD PACKING) (OEM OOM201 ),Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,Oxygen Sensor Capsule,Fast Moving Item,1,5,Active,0
+BP0025,Sensors/ Detectors,Oxygen Sensor,Fast Moving Item,1,5,Active,0
+BP0025,Sensors/ Detectors,MARQUETTE EXTENSION SPO2 SENSOR,Fast Moving Item,1,10,Active,3
+BP0025,Sensors/ Detectors,EXTENAL MEDICAL OXYGEN SENSOR MAX-250E,Fast Moving Item,1,15,Active,4
+BP0001,Batteries/ UPS,Rechargeable Battery 6V,Just In Time,0,5,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 6V,Just In Time,0,30,Active,0
+BP0025,Sensors/ Detectors,MASIMO SPO2 FINGER SENSOR ADULT LNOP DCI,Fast Moving Item,1,30,Active,0
+BP0025,Sensors/ Detectors,SPO2 finger sensor child masimo,Fast Moving Item,1,12,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),MARQUETTE SPO2 ADAPTOR CABLE HELLIGE,Fast Moving Item,1,3,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),MASIMO EXTENSIN CABLE M-LNCS-10,Fast Moving Item,1,28,Active,3
+BP0003,Bulbs/ Lamps,Bulb PENLON 55092,Fast Moving Item,1,15,Active,6
+BP0011,Equipment Specific Parts,Pot Meter,One Off,0,1,Active,0
+BP0011,Equipment Specific Parts,"Strap,250X3Cm",One Off,0,7,Active,0
+BP0003,Bulbs/ Lamps,MADELA LAMP PHOTOTHERAPY 18w/71,Fast Moving Item,10,500,Active,47
+BP0003,Bulbs/ Lamps,BULB KILLER VISTA 2.8V 6 1011-P-7042,Fast Moving Item,1,10,Active,1
+BP0003,Bulbs/ Lamps,Bulb 2.5V,Fast Moving Item,1,4,Active,0
+BP0018,Motors/ Micromotors/ Carbon brushes,Fresenius 4008S Stepper Motor,Fast Moving Item,1,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Retractile Cable,One Off,0,5,Active,0
+BP0007,Diaphragms/ Pumps,Fresenius 4008S Concentrate Pump Assy Complete,Fast Moving Item,1,5,Active,0
+BP0007,Diaphragms/ Pumps,Fresenius 4008S Gear Pump Head,Fast Moving Item,1,4,Active,1
+BP0001,Batteries/ UPS,Rechargeable Battery 4.6V 700Mah,Just In Time,0,1,Active,0
+BP0001,Batteries/ UPS,SUZUKENZ 108 RECHARGEABLE BATTERY 12V 1200MAH,Just In Time,0,11,Active,10
+BP0021,Power Cords/ Adaptors (or any part of it),3 Pin Plug Adaptor,One Off,0,100,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Ecg Cable,Fast Moving Item,1,3,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS LEAD 5 LEAD ECG CABLE M1633A,Fast Moving Item,1,20,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Adaptor Cable 12Pin to 9Pin,Just In Time,0,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Patient Cable,Fast Moving Item,1,3,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Chest Electrode Paediatric Complete,Fast Moving Item,1,20,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),"PHILIPS 3 Lead Trunk Cable, M1510A",Fast Moving Item,1,16,Active,4
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS 3 LEAD ECG CALBLE M1613A,Fast Moving Item,1,10,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION PHILIPS 1900B,Fast Moving Item,1,3,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Cable,Fast Moving Item,1,5,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Air Hose 3.5m CRITIKON,One Off,0,15,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Tube L Mini,One Off,0,20,Active,0
+BP0003,Bulbs/ Lamps,"Bulb, 6.2V0.5A",Just In Time,0,10,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery,Just In Time,0,47,Active,0
+BP0001,Batteries/ UPS,NIHON KOHDEN TEC-7100K BATTERY,Just In Time,0,14,Active,3
+BP0001,Batteries/ UPS,Rechargeable Battery Lcs-2912Nk,Just In Time,0,1,Active,11
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 1.9Ah,Just In Time,0,15,Active,0
+BP0001,Batteries/ UPS,NIHON KOHDEN 2012NK BATTERY,Just In Time,0,3,Active,2
+BP0001,Batteries/ UPS,Battery 12V 3700mAH,Just In Time,0,2,Active,0
+BP0001,Batteries/ UPS,Battery Rechargeable W/Connector 7.2V,Just In Time,0,20,Active,25
+BP0001,Batteries/ UPS,Battery,Just In Time,0,10,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 7.2V 1.8Ah,Just In Time,1,10,Active,0
+BP0001,Batteries/ UPS,Battery Ifusomat Bbraun FM,Just In Time,0,30,Active,9
+BP0001,Batteries/ UPS,Rechargeable Battery 9.63V 1.5Ah,Just In Time,0,20,Active,1
+BP0001,Batteries/ UPS,Rechargeable Battery D84:D8712V 900MahTOP 3100 Battery,Just In Time,0,40,Active,25
+BP0001,Batteries/ UPS,Rechargeable Battery,Just In Time,0,1,Active,0
+BP0001,Batteries/ UPS,RECHARGEABLE BATTERY TOP 5300 12V 700MAH,Just In Time,0,11,Active,49
+BP0025,Sensors/ Detectors,Drop Sensor T31 (88t),Fast Moving Item,1,5,Active,0
+BP0001,Batteries/ UPS,DRAGER OXYLOG 2000 BATTERY,Just In Time,0,13,Active,1
+BP0001,Batteries/ UPS,Battery,Just In Time,0,1,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Corner Bracket,One Off,0,1,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Corner Bracket,One Off,0,55,Active,23
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,AMEDA Tube Grommet,One Off,0,4,Active,4
+BP0025,Sensors/ Detectors,Drop Sensor Complete Infusomat,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,"Infusomat, Drop Sensor Complete",Fast Moving Item,1,10,Active,4
+BP0025,Sensors/ Detectors,B.BRAUN Drop Sensor Complete 34502629,Fast Moving Item,1,12,Active,8
+BP0013,Heater Elements,Element Replacement Kit,One Off,0,1,Active,0
+BP0013,Heater Elements,Heater Wire,Fast Moving Item,1,3,Active,0
+BP0026,Solenoids/ Valves/ Gauges,Solenoid Valve - Dual Port,Fast Moving Item,1,10,Active,4
+BP0026,Solenoids/ Valves/ Gauges,Fresenius 4008S Pressure reducing valve,Fast Moving Item,1,4,Active,1
+BP0012,Filters,AIR SHIELD FILTER PACK OF 4 C400 & 450,Fast Moving Item,1,100,Active,21
+BP0012,Filters,Air Filter (Pack Of 4),Fast Moving Item,10,200,Active,0
+BP0012,Filters,Bacterial Filter,Just In Time,0,1,Active,0
+BP0003,Bulbs/ Lamps,BULB HALOGEN 12V 50V (LEICA),Fast Moving Item,1,10,Active,3
+BP0003,Bulbs/ Lamps,Halogen Bulb 12V 50W,Fast Moving Item,1,10,Active,0
+BP0003,Bulbs/ Lamps,BULB OSRAM 64261 12V 30W,Fast Moving Item,1,50,Active,17
+BP0009,Electrodes,Potassium Electrode,Just In Time,0,2,Active,0
+BP0009,Electrodes,"Electrode,Refill Cassette",Just In Time,0,1,Active,0
+BP0009,Electrodes,"Electrode,Po2",Just In Time,0,3,Active,0
+BP0009,Electrodes,"Electrode,Ph",Just In Time,0,3,Active,0
+BP0003,Bulbs/ Lamps,"BULB OLYMPUS 6V,10WGE (AX2017)",Fast Moving Item,1,27,Active,11
+BP0003,Bulbs/ Lamps,Bulb 6V 20W,Fast Moving Item,1,86,Active,46
+BP0003,Bulbs/ Lamps,Bulb 6V 30W (Olympus),Fast Moving Item,1,100,Active,0
+BP0001,Batteries/ UPS,Battery AAA (Alkaline),Fast Moving Item,20,1000,Active,1
+BP0001,Batteries/ UPS,Battery C (Alkaline),Fast Moving Item,10,600,Active,175
+BP0001,Batteries/ UPS,Battery D (Alkaline),Fast Moving Item,10,400,Active,49
+BP0001,Batteries/ UPS,Battery 9V (Alkaline),Fast Moving Item,10,200,Active,26
+BP0001,Batteries/ UPS,CRITIKON 8100 Battery,Just In Time,0,1,Active,4
+BP0001,Batteries/ UPS,Battery 6V,Just In Time,0,10,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 6V,Just In Time,0,10,Active,0
+BP0001,Batteries/ UPS,Battery Rech. 3.6V 1.8Ah,Just In Time,0,5,Active,1
+BP0001,Batteries/ UPS,Rechargeable Battery 3.5V,Just In Time,0,10,Active,0
+BP0003,Bulbs/ Lamps,Halogen Bulb 12V 100W 6834 FO,Fast Moving Item,1,101,Active,12
+BP0003,Bulbs/ Lamps,"Bulb,Collimator,12v 100w (Philips 64625) 50Hr",Fast Moving Item,1,20,Active,14
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Sample & Reagent Tube Kit,Just In Time,0,2,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Pre-Heater Tubing Kit,Just In Time,0,10,Active,0
+BP0025,Sensors/ Detectors,OXIBAND ADULT / NEONATAL SENSOR,Fast Moving Item,1,5,Active,1
+BP0025,Sensors/ Detectors,Oxi-Clip Finger Sensor,One Off,0,1,Active,0
+BP0025,Sensors/ Detectors,GRASEBY SOLARIS SPO2 FINGER SENSOR ADULT,Fast Moving Item,1,3,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),"Ecg 5 Lead , Grabber Set Iec",Fast Moving Item,1,10,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),DATEX OHMEDA 3 LEAD WIRE,Fast Moving Item,1,10,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),3 LEAD WIRE,Fast Moving Item,1,10,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Spo2 Extension Cable,Fast Moving Item,1,25,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),NELLCOR SPO2 Extension Cable Sensor DEC-8,Fast Moving Item,1,40,Active,6
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable Symphony,Fast Moving Item,1,11,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),NELLCOR SPO2 Extension Cable Original DOC 10,Fast Moving Item,1,20,Active,4
+BP0025,Sensors/ Detectors,"NELLCOR SPO2 FINGER SENSOR Pediatric Spot-Check, Dura-Y Sensor",Fast Moving Item,1,16,Active,1
+BP0025,Sensors/ Detectors,NELLCOR SPO2 FINGER CLIP SPO2 SENSOR DS100A,Fast Moving Item,1,50,Active,44
+BP0025,Sensors/ Detectors,Dura-Y Multi Site Sensor,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,Oxygen Sensor Adult/Neonatal Oxiband,Fast Moving Item,1,5,Active,0
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 08500,Fast Moving Item,1,20,Active,3
+BP0003,Bulbs/ Lamps,Bulb,Fast Moving Item,1,3,Active,0
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 03000,Fast Moving Item,1,20,Active,8
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 03400,Fast Moving Item,1,50,Active,15
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 04400,Fast Moving Item,1,14,Active,1
+BP0003,Bulbs/ Lamps,Lamp For Mfi/Vdx,Fast Moving Item,1,2,Active,0
+BP0003,Bulbs/ Lamps,Bulb Halogen 22.8V 50W,Fast Moving Item,1,10,Active,0
+BP0003,Bulbs/ Lamps,BULB HANAULUX BLUE 22.8V 90W 130/90 NR.56053198 (HERAEUS),Fast Moving Item,1,81,Active,8
+BP0003,Bulbs/ Lamps,BULB PHILIPS 409843 TYPE 6550 15V 150W 409843,Fast Moving Item,1,10,Active,1
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Oxytip Interconnect/Universal,Fast Moving Item,1,23,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 8.4V 300Ah,One Off,0,5,Active,0
+BP0001,Batteries/ UPS,AIR SHIELD C100 Rechargeable Battery 6V 2.5Ah,Just In Time,0,10,Active,5
+BP0001,Batteries/ UPS,Battery 12V,Just In Time,0,3,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 12V,Just In Time,0,1,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,ESHMAN TAPERED CONNECTOR,One Off,0,1,Active,7
+BP0004,Cables/ Lead Wires (or any part of it),300 Series 3 Lead Trunk Cable 3M/10',Fast Moving Item,1,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),DATEX OHMEDA Spo2 Extension Cable (OXY-OL3),Fast Moving Item,1,15,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),ECG Trunk Cable,One Off,0,4,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Oxytip Interconnect Cable,Fast Moving Item,1,20,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Extension Cable,Fast Moving Item,1,27,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE TS-M3,Fast Moving Item,1,14,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE TS-N3,Fast Moving Item,1,10,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),NOVAMETRIX SPO2 CABLE ADAPTOR NOR,Fast Moving Item,1,11,Active,5
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Wire Set,Fast Moving Item,1,15,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),SPACELAB 3 Lead Ecg Trunk Cable,Fast Moving Item,1,11,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Ecg Shilded Patient Cable For Pcms Only,Fast Moving Item,1,15,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),5 Lead Ecg Shilded Patient Cable For 90600/90700,Fast Moving Item,1,3,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Ecg Cable,Fast Moving Item,1,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Extension Cable,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,Oxygen Sensor C-1,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,Flow Sensor Q2 W/Eprom,Fast Moving Item,1,10,Active,1
+BP0025,Sensors/ Detectors,Exhalation Sensor (Q3/T3),Fast Moving Item,1,2,Active,0
+BP0025,Sensors/ Detectors,DATEX OHMEDA FLOW SENSOR 1503-3856-000 (PENDEK),Fast Moving Item,1,15,Active,7
+BP0025,Sensors/ Detectors,Skin Temperature Probe,Fast Moving Item,1,15,Active,0
+BP0025,Sensors/ Detectors,Oxytip Finger Sensor,Fast Moving Item,1,22,Active,0
+BP0025,Sensors/ Detectors,Spo2 Finger Sensor,Fast Moving Item,1,10,Active,0
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Retrokit Power,One Off,0,1,Active,0
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Power PCB Assembly,One Off,0,5,Active,0
+BP0025,Sensors/ Detectors,Spo2 Reusable Finger Sensor Oxy-F4-H,Just In Time,0,1,Active,0
+BP0023,PPM/ Service/Maintenance/ Repair Kits,PM KIT As/5,Fast Moving Item,1,18,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Display Board Pcb,One Off,0,1,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Control PCB Assembly,One Off,0,5,Active,0
+BP0018,Motors/ Micromotors/ Carbon brushes,Fan Motor,One Off,0,3,Active,0
+BP0025,Sensors/ Detectors,NOVAMETRIX SPO2 PROBE FINGER ADULT,Fast Moving Item,1,11,Active,0
+BP0011,Equipment Specific Parts,Suction Jar Shatterproof Plastic,One Off,0,1,Active,0
+BP0011,Equipment Specific Parts,CLEMENT Sp BLUE Inlet Nipple,One Off,0,30,Active,3
+BP0028,Transducers/ Probes,Bd'S Pressure Tranducer P23Xl-1,One Off,0,5,Active,0
+BP0028,Transducers/ Probes,ARGON (BD) Pressure Transducer P23xl,Just In Time,0,7,Active,1
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,ESHMAN SPARE LID FOR RECEIVED JAR,One Off,0,1,Active,0
+BP0025,Sensors/ Detectors,DYNAL Skin Temp Probe,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,PHILIPS SPO2 FINGER SENSOR CHILE M1193A,Fast Moving Item,1,10,Active,2
+BP0004,Cables/ Lead Wires (or any part of it),8-12 Pin Spo2 Sensor Adaptor Cable,Fast Moving Item,1,10,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),3-Lead Ecg Patient Trunk Cable Aam,Fast Moving Item,1,3,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS 3 LEAD ECG MINI CLIP M1608,Fast Moving Item,1,3,Active,1
+BP0006,Cuffs,Cuff Cylindrical 18 Ats,Fast Moving Item,1,10,Active,2
+BP0006,Cuffs,Cuff Cylindrical 30 Ats,Fast Moving Item,1,10,Active,3
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Maintenance Kit 3000H,Fast Moving Item,1,7,Active,0
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Maintenance Kit 5000H,Fast Moving Item,1,7,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Air Module,Just In Time,0,2,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,CONNECTOR SPRILOG SENSOR,Fast Moving Item,1,10,Active,13
+BP0006,Cuffs,Adult Cuff,Fast Moving Item,1,10,Active,0
+BP0006,Cuffs,Small Adult Cuff,Fast Moving Item,1,10,Active,0
+BP0006,Cuffs,Child Cuff,Fast Moving Item,1,10,Active,3
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,O-Ring,Fast Moving Item,1,10,Active,2
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,Seal/Bodok,Fast Moving Item,10,210,Active,2
+BP0011,Equipment Specific Parts,MK4 STAINLESS STELL MEDICAL AIR,One Off,0,40,Active,23
+BP0011,Equipment Specific Parts,Silencer,One Off,0,3,Active,0
+BP0011,Equipment Specific Parts,1/2 Clip,One Off,0,50,Active,0
+BP0011,Equipment Specific Parts,9/16 Clip,One Off,0,50,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,COLIN BP 8800 Front Case,One Off,0,2,Active,1
+BP0011,Equipment Specific Parts,COLIN Luer Lock Fitting,One Off,0,32,Active,14
+BP0006,Cuffs,Cuff Complete Adult,Fast Moving Item,10,200,Active,0
+BP0006,Cuffs,Cuff Complete Pead ACCOSON,Fast Moving Item,1,10,Active,3
+BP0006,Cuffs,Bp Cuff Bandage Adult Acoson,Fast Moving Item,1,20,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),E Module,One Off,0,1,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),N MODULE (220-240V) B BRAUN 34506683,One Off,0,5,Active,2
+BP0015,Keyboards/ Keypads/ Remotes,Foil Keyboard BBRAUN,One Off,0,10,Active,1
+BP0001,Batteries/ UPS,RECHARGEABLE BATTERY ATOM 12V,Just In Time,0,10,Active,0
+BP0003,Bulbs/ Lamps,MEDELA LAMP BODY MADELA,One Off,0,10,Active,3
+BP0003,Bulbs/ Lamps,MEDELA Lamp Grid MADELA,One Off,0,10,Active,6
+BP0003,Bulbs/ Lamps,PHOTHOTHERAPY LAMP PHOTOTHERAPY TL20/52,Fast Moving Item,10,200,Active,54
+BP0003,Bulbs/ Lamps,PHOTOTHERAPY LAMP TLD 30/03,Fast Moving Item,1,10,Active,250
+BP0003,Bulbs/ Lamps,PHOTOTHERAPY LAMP 40/03,Fast Moving Item,10,200,Active,25
+BP0025,Sensors/ Detectors,Po Finger Clip Sensor,One Off,0,15,Active,0
+BP0025,Sensors/ Detectors,Po Ohmeda Flex 11 Sensor,One Off,0,1,Active,0
+BP0025,Sensors/ Detectors,Ear Clip Sensor,One Off,0,1,Active,0
+BP0007,Diaphragms/ Pumps,A MODULE B Braun Pump,One Off,0,3,Active,1
+BP0001,Batteries/ UPS,Battery,Just In Time,0,1,Active,0
+BP0011,Equipment Specific Parts,TOP 3300 HANDLE MAIN UNIT (T6335602(2)),One Off,0,1,Active,0
+BP0011,Equipment Specific Parts,TOP 5100 Power Regulator KWS10-15,Fast Moving Item,1,26,Active,7
+BP0011,Equipment Specific Parts,TOP 5300 Base WITH HANDLE T6535604,One Off,0,3,Active,1
+BP0011,Equipment Specific Parts,Slider Subass,One Off,0,15,Active,0
+BP0011,Equipment Specific Parts,TOP 5300 Clamp Unit T653-044,One Off,0,20,Active,1
+BP0011,Equipment Specific Parts,Boot Unit,One Off,0,10,Active,0
+BP0011,Equipment Specific Parts,Dial Unit,One Off,0,60,Active,14
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Slider Cover Unit,One Off,0,10,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Sypu Lower Case,One Off,0,3,Active,0
+BP0011,Equipment Specific Parts,Universal Clamp Complete,One Off,0,10,Active,1
+BP0011,Equipment Specific Parts,Drive Unit Complete,One Off,0,3,Active,0
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Sypu A Module(Battery R/Able Power Pack & Board),Just In Time,1,2,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery,One Off,0,2,Active,0
+BP0003,Bulbs/ Lamps,Bulb FML2TEX-N (For Eye Treadment Chair),Just In Time,0,5,Active,0
+BP0023,PPM/ Service/Maintenance/ Repair Kits,PPM KIT 10K FOR 10.4 GUI,Fast Moving Item,1,10,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),PHYSIO CONTROL LP9B 3 lead Trunk Cable,Fast Moving Item,1,20,Active,10
+BP0011,Equipment Specific Parts,Recorder Assy,One Off,0,5,Active,0
+BP0011,Equipment Specific Parts,PHYSIO CONTROL LP9B Printer Roller Assy 21330-000656,One Off,0,10,Active,2
+BP0003,Bulbs/ Lamps,BULB HITACHI HALOGEN LAMP 12V 20W P/N:705-0840,Just In Time,0,5,Active,3
+BP0001,Batteries/ UPS,BATTERY OMRON 4.8V 1.6 AH,Just In Time,0,30,Active,18
+BP0003,Bulbs/ Lamps,Xenon Lamp 300,Just In Time,0,10,Active,0
+BP0003,Bulbs/ Lamps,OL BULB HALOGEN 24V 150W W/O REFLECTOR,Fast Moving Item,1,50,Active,21
+BP0003,Bulbs/ Lamps,Bulb Halogen 12V 100W Reflector,Just In Time,0,20,Active,0
+BP0003,Bulbs/ Lamps,Mic Bulb Halogen 12V 100W Reflector,Just In Time,0,20,Active,0
+BP0003,Bulbs/ Lamps,Mic Lamp Regulation Board,One Off,0,3,Active,0
+BP0003,Bulbs/ Lamps,Halogen Bulb 6V 30W(Carl Zies),Just In Time,0,8,Active,2
+BP0011,Equipment Specific Parts,"OLYMPUS CH-120V,30WSB",Fast Moving Item,1,7,Active,4
+BP0001,Batteries/ UPS,Battery for physio control Defibrillator LP9B,Just In Time,0,12,Active,0
+BP0001,Batteries/ UPS,Life Pack Nicd Battery,Just In Time,0,4,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery,Just In Time,0,1,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Main Pcb Assembly,One Off,0,1,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 4.5Ah,Just In Time,0,2,Active,0
+BP0001,Batteries/ UPS,Battery Ups,Just In Time,0,10,Active,0
+BP0007,Diaphragms/ Pumps,Diaphragm (Silicon),Fast Moving Item,1,30,Active,24
+BP0015,Keyboards/ Keypads/ Remotes,Keyboard Panel,One Off,0,5,Active,0
+BP0011,Equipment Specific Parts,Thermal Head,One Off,0,10,Active,0
+BP0011,Equipment Specific Parts,Printer Roller Spool,One Off,0,10,Active,0
+BP0011,Equipment Specific Parts,"Pb,Inverter",One Off,0,1,Active,0
+BP0003,Bulbs/ Lamps,BULB HEINE X.04.88.104 6V BINOCULAR,Fast Moving Item,1,5,Active,2
+BP0011,Equipment Specific Parts,Infant Humidifier Chamber,One Off,0,5,Active,0
+BP0011,Equipment Specific Parts,FISHER & PAYKEL ELECTRICAL ADAPTOR 900MR558,Fast Moving Item,1,21,Active,3
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,FISHER&PAYKEL Hose Heater Wire 900MR751,Fast Moving Item,1,20,Active,8
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,FISHER & PAYKEL HOSE HEATER WIRE ASSY 900MR510,Fast Moving Item,1,20,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),VALLEYLAB Cable Bipolar Active,Fast Moving Item,1,6,Active,3
+BP0004,Cables/ Lead Wires (or any part of it),Cable Bipolar Forceps,Fast Moving Item,1,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),VALLEYLAB ESU HANDSEITCHING-SETCH PENCIL E2100,One Off,0,2,Active,2
+BP0025,Sensors/ Detectors,Finger Probe Spo2 Sensor,Fast Moving Item,1,4,Active,0
+BP0001,Batteries/ UPS,Nicked Rechargeable Battery 16Vdc 2.5Ah,Just In Time,0,10,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Holder Bulb Assy,Fast Moving Item,1,12,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Oxylead Interconnect Cable,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,Spo2 Finger Sensor,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,"Spo2 Probe,Neonate,Stater Kit",Fast Moving Item,1,4,Active,0
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,"Hose Connect, Trio",One Off,0,3,Active,0
+BP0006,Cuffs,Cuff Infant,Fast Moving Item,1,50,Active,25
+BP0011,Equipment Specific Parts,NIHON KOHDEN Paper Shaft AAA-20473 (20013),One Off,0,4,Active,3
+BP0011,Equipment Specific Parts,NIHON KOHDEN 6851K Strap 38cm,One Off,0,11,Active,10
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Cover For Battery,One Off,0,5,Active,1
+BP0025,Sensors/ Detectors,NOVAMETRIX SPO2 FINGER SENSOR Y,Fast Moving Item,1,23,Active,3
+BP0025,Sensors/ Detectors,"Spo2 Finger Sensor, 8744",Fast Moving Item,1,20,Active,0
+BP0025,Sensors/ Detectors,Reusable Oxysnap Finger Sensor,Fast Moving Item,1,10,Active,0
+BP0025,Sensors/ Detectors,Spo2 Adult Finger Tranducer,Fast Moving Item,1,10,Active,3
+BP0025,Sensors/ Detectors,Pead Spo 2 Sensor,Fast Moving Item,1,2,Active,0
+BP0025,Sensors/ Detectors,SPO2 Finger Sensor Adult,Fast Moving Item,1,5,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 1.2Ah,Just In Time,0,10,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,"Upper Casing,Clamp&Sheet",One Off,0,1,Active,0
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Power Supply Regulator,Fast Moving Item,1,15,Active,0
+BP0002,Blankets/ Mattresses,RIPPLE MATTRESS INDIVIDUAL CELL,Fast Moving Item,1,30,Active,0
+BP0007,Diaphragms/ Pumps,Diapharm,Fast Moving Item,1,100,Active,14
+BP0011,Equipment Specific Parts,Silencer Bag Assy,One Off,0,100,Active,7
+BP0023,PPM/ Service/Maintenance/ Repair Kits,"5K PREVENTIVE MAINTENANCE KIT,VELA",Fast Moving Item,1,6,Active,0
+BP0025,Sensors/ Detectors,Finger Probe Adult 1.5Ft/Adult Reuble Oximeter Sensor,Fast Moving Item,1,5,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable 8Ft(2.4M),Fast Moving Item,1,5,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery,Just In Time,0,5,Active,0
+BP0001,Batteries/ UPS,Battery,Just In Time,0,10,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS Spo2 Sensor Adapter Cable M1940A,One Off,0,5,Active,2
+BP0001,Batteries/ UPS,Rechargeable Battery 6V 12Ah,Just In Time,0,40,Active,12
+BP0003,Bulbs/ Lamps,PHOTHOTHERAPY LAMP BULB ULTRAVIOLET UV-AL 100W/13,Fast Moving Item,1,100,Active,0
+BP0003,Bulbs/ Lamps,PHOTHOTHERAPY LAMP BULB ULTRAVIOLET UV-B TL 100W/12,Fast Moving Item,1,70,Active,0
+BP0026,Solenoids/ Valves/ Gauges,RP VALVE BODY ASSEMBLY,One Off,0,2,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Handle Bracket Set,One Off,0,10,Active,0
+BP0011,Equipment Specific Parts,Compressor,One Off,0,2,Active,0
+BP0011,Equipment Specific Parts,Air Reservoir,One Off,0,10,Active,0
+BP0007,Diaphragms/ Pumps,Pumping Set,One Off,0,10,Active,0
+BP0013,Heater Elements,Element Heating,Fast Moving Item,1,10,Active,1
+BP0011,Equipment Specific Parts,Sl 6V 20W Toeimeter,Fast Moving Item,1,10,Active,0
+BP0003,Bulbs/ Lamps,Bulb 12 V 30 W,Fast Moving Item,1,8,Active,5
+BP0004,Cables/ Lead Wires (or any part of it),Patient Extension Cable 8',Fast Moving Item,1,15,Active,4
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),"Pcb,Display",One Off,0,1,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),"Pcb,Main",One Off,0,1,Active,0
+BP0011,Equipment Specific Parts,PARI Automizer Upper Section,One Off,0,4,Active,1
+BP0011,Equipment Specific Parts,Nozzle Complete,One Off,0,4,Active,0
+BP0006,Cuffs,Cuff Single Tube Child,Fast Moving Item,1,150,Active,12
+BP0026,Solenoids/ Valves/ Gauges,Terumo Vacuum Valve,One Off,0,1,Active,0
+BP0027,Switchs/ Knobs/Buttons,Sheet Switch COLIN BP8800,One Off,0,30,Active,5
+BP0001,Batteries/ UPS,Battery 7.2V,Just In Time,0,5,Active,0
+BP0001,Batteries/ UPS,IP BATTERY 34508210,Just In Time,0,7,Active,0
+BP0003,Bulbs/ Lamps,BULB KEELER OPTHALMOSCOPE BULB 2.8V,Fast Moving Item,1,13,Active,5
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Tube Pressure C/W Rubber,Fast Moving Item,1,20,Active,12
+BP0001,Batteries/ UPS,Battery 6V,Just In Time,0,1,Active,0
+BP0001,Batteries/ UPS,BATTERY MINDRAY PM600 LC-R061R3P,Just In Time,0,60,Active,14
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Case Bottom,One Off,0,3,Active,0
+BP0028,Transducers/ Probes,Probe Aga,One Off,0,1,Active,0
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Power Convertion Board,One Off,0,1,Active,0
+BP0001,Batteries/ UPS,Rechargeable Battery,Just In Time,0,1,Active,0
+BP0011,Equipment Specific Parts,Manometer With Pointer,One Off,0,2,Active,0
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Ppm Kit,Fast Moving Item,1,10,Active,0
+BP0028,Transducers/ Probes,O2 STAINLESS STEEL OXY PROBE REMOTE O2,One Off,0,50,Active,10
+BP0010,Electronic Components,Patient Relay,Just In Time,0,3,Active,0
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Mother Board Unit,One Off,0,10,Active,0
+BP0001,Batteries/ UPS,Battery 9.6V 1100mAH w/out connector,Just In Time,0,10,Active,0
+BP0001,Batteries/ UPS,Battery for Entral feeding,Just In Time,0,60,Active,8
+BP0010,Electronic Components,Relay Solid State,One Off,0,4,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Patient Cable,One Off,0,4,Active,0
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,DATASCOPE BEZEL FRONT HIGHT ASSEMBLY 0380-00-0359-04,One Off,0,3,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Spo2 Adaptor Cable,Fast Moving Item,1,6,Active,0
+BP0012,Filters,"AMEDA, 7 Shut Off Filter",Just In Time,0,59,Active,45
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable,Fast Moving Item,1,10,Active,0
+BP0004,Cables/ Lead Wires (or any part of it),Connector Cable (Db-9/Oxysnap),Fast Moving Item,1,15,Active,0
+BP0023,PPM/ Service/Maintenance/ Repair Kits,SECHRIST Ppm Service Kit,Fast Moving Item,1,10,Active,1
+BP0017,Membranes,Membrane Sheet,Fast Moving Item,1,20,Active,0
+BP0003,Bulbs/ Lamps,Bulb OSRAM 5001BA15s 6V 10W,Fast Moving Item,1,10,Active,7
+BP0003,Bulbs/ Lamps,Bulb 24V 40W,Just In Time,0,20,Active,0
+BP0003,Bulbs/ Lamps,Bulb Halogen 50W 24V,Fast Moving Item,1,15,Active,0
+BP0003,Bulbs/ Lamps,Bulb 24v 100w,Fast Moving Item,1,20,Active,0
+BP0011,Equipment Specific Parts,Ic,Just In Time,0,10,Active,1
+BP0011,Equipment Specific Parts,AIR SHIELD Grommet Access,One Off,0,7,Active,7
+BP0011,Equipment Specific Parts,AIR SHIELD Iris Sleeve (Pack Of 4),One Off,0,106,Active,18
+BP0011,Equipment Specific Parts,Htc Protection Sheild For Hps 101,One Off,0,1,Active,0
+BP0027,Switchs/ Knobs/Buttons,MEDELA DOUBLE ROCKER SWITCH MADELA,One Off,0,1,Active,1
+BP0016,Mechanical Components,MEDELA SQUARE NUT MADELA,One Off,0,2,Active,1
+BP0020,Paddles/ Wheels/ Castors/Brakes,CASTOR WHEEL WITH SCREW HEAD 2,One Off,0,50,Active,0
+BP0028,Transducers/ Probes,CARDIOTOCOGRAPH 1.5Mhz Ultrasound Transducer (Yellow),Just In Time,0,5,Active,2

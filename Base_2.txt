@@ -1,0 +1,61 @@
+Base de datos #2
+Esta base contiene mediciones acústicas de la voz de diferentes pacientes que padecen de parkinson
+
+MDVP:Fo(Hz)	
+Frecuencia fundamental promedio de la voz (en Hz).
+
+
+MDVP:Fhi(Hz)	
+Frecuencia máxima de la voz.
+
+
+MDVP:Flo(Hz)	
+Frecuencia mínima de la voz.
+
+
+MDVP:Jitter(%)	
+Variación de frecuencia (inestabilidad), en porcentaje.
+
+
+MDVP:Jitter(Abs)	
+Jitter absoluto en segundos.
+
+
+MDVP:RAP	
+"Relative Average Perturbation": variación promedio relativa.
+
+
+MDVP:PPQ	
+Variación periódica de cinco puntos.
+
+
+Jitter:DDP	
+Diferencia entre perturbaciones (jitter derivado).
+
+
+MDVP:Shimmer	
+Variación en amplitud (intensidad) de la voz.
+
+
+MDVP:Shimmer(dB)	
+Shimmer expresado en decibeles.
+
+
+Shimmer:APQ3	
+Amplitude Perturbation Quotient en ventana de 3 periodos.
+
+
+Shimmer:APQ5	
+Amplitude Perturbation Quotient en ventana de 5 periodos.
+
+
+MDVP:APQ	
+Shimmer promedio.
+
+
+Shimmer:DDA	
+Diferencia entre amplitudes consecutivas.
+
+
+NHR Noise-to-Harmonics Ratio: 
+relación ruido/armónicos.

@@ -1,0 +1,22 @@
+Base de datos #1
+Esta base está relacionada a repuestos de equipos biomedicos
+
+dimension: 538 filas y 6 columnas
+
+item code
+Código interno que agrupa los repuestos por categoría
+
+item description
+Descripción general del tipo de repuesto
+
+part no.
+Número de parte único para cada pieza. Casi todos son diferentes
+
+part description
+Descripción específica del repuesto. Cada repuesto tiene su propia descripción
+
+unit of measurement
+Unidad de medida. En este archivo todas son PCS (piezas).
+
+spare part type
+Clasificación en categorías. En los datos aparecen 3 tipos (aún no nombrados en el archivo, solo registros numéricos/códigos).
